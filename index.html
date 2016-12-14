@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="Homepage of Animesh Trivedi" />
+    <meta name="author" content="Animesh Trivedi" />
+    <title>Animesh Trivedi - Homepage</title>
+    <!-- Bootstrap core CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+</head>
+<body>
+<div class="kudu-site container-fluid">
+    <!-- Static navbar -->
+    <nav class="navbar navbar-default">
+        <div class="container-fluid">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+            </div>
+            <div id="navbar" class="collapse navbar-collapse">
+                <ul class="nav navbar-nav navbar-left">
+                    <li class="active">
+                        <a href="index.html#aboutme">About Me</a>
+                    </li>
+                    <li >
+                        <a href="index.html#projects">Projects</a>
+                    </li>
+                    <li >
+                        <a href="index.html#publications">Publications</a>
+                    </li>
+                    <li >
+                        <a href="index.html#contact">Contact</a>
+                    </li>
+
+                    <!--
+                                    <li >
+                                      <a href="/releases/">Download</a>
+                                    </li>
+                                    <li >
+                                      <a href="/blog/">Blog</a>
+                                    </li>
+                    -->
+                </ul><!-- /.nav -->
+            </div><!-- /#navbar -->
+        </div><!-- /.container-fluid -->
+    </nav>
+    <h1 id="aboutme"> About Me </h1>
+    <br>
+    <font size="4">        
+        <p>I am Animesh Trivedi, a researcher in the Cloud and Computing Infrastructure group at the IBM Research Lab, Zurich. Earlier in 2016, I graduated with a PhD from ETH, Zurich.</p>
+
+        <p>My primary research interests are in the area of operating systems, high-performance networks and storage architectures, and distributed systems. Currently I am investigating how to design high-performance analytics stack by leveraging high-performance network (40, 100 Gbps and beyond) and storage hardware (NVM flash, PCM). I am experimenting in Apache data processing ecosystem (Spark, Hadoop, Flink, etc.) with RDMA networking and flash devices. For more details see the projects section.</p>
+
+        <!-- <p>More details about my work can be found at  https://www.research.ibm.com/labs/zurich/sto/security/zac.html
+        Occasionally and time permitting, I put stuff on my technical blog about new learning and issues I am investigating. It can be reached here: http://0x8086.blogspot.com/ -->
+
+    </font>
+
+    <h1 id="projects">Projects</h1>
+    <br>
+    <font size="4">
+        <ul style="list-style-type:none">
+            <li><p><b>Spark-IO:</b> Spark-IO contains various I/O acceleration plugins for Spark tailored to high-performance network and storage hardware (RDMA, NVMef, etc.). Spark-IO is based on Crail, a fast multi-tiered distributed storage system. Spark-IO currently contains two IO plugins: a shuffle engine and a broadcast module. Both plugins inherit all the benefits of Crail such as very high performance (throughput and latency) and multi-tiering (e.g., DRAM and flash). More details can be found at <a href="https://github.com/zrlio/spark-io" > https://github.com/zrlio/spark-io </a> </p></li>
+            <br>
+            <li><p><b>Crail Distributed File System:</b> Crail is a fast multi-tiered distributed file system designed from ground up for high-performance network and storage hardware. It provides an asynchronous file system API leveraging the asynchronous nature of RDMA-based networking hardware and supports ultra-low latencies for both meta data and data operations. Crail is implemented in Java offering a Java API which integrates directly with the Java off-heap memory. Crail is designed for performance critical temporary data within a scope of a rack or two. More details can be found at <a href="https://github.com/zrlio/crail" > https://github.com/zrlio/crail </a> </p></li>
+            <br>
+            <li><p><b>DaRPC: Data Center Remote Procedure Call (DaRPC):</b> DaRPC is a Java library that provides ultra-low latency RPC for RDMA capable network interfaces. More details can be found at <a href="https://github.com/zrlio/darpc" > https://github.com/zrlio/darpc</a> </p></li>
+            <br>
+            <li><p><b>DiSNI: Direct Storage and Networking Interface (DiSNI):</b>  DiSNI is a Java library for direct storage and networking access from userpace. It currently provides an RDMA interface. More details can be found at <a href="https://github.com/zrlio/disni" > https://github.com/zrlio/disni</a> </p></li>
+        </ul>
+
+    </font>
+
+    <h1 id="publications">Publications</h1>
+    <br>
+    <font size="4">
+        <ul style="list-style-type:circle">
+            <li><b>On The [Ir]relevance of Network Performance for Data Processing</b>. Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Ioannis Koltsidas, Nikolas Ioannou. <i>Proceedings of the 8th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud '16)</i>, Denver, Colorado, USA, June 20–21, 2016. </li>
+
+            <p></p>
+            <li><b>RStore: A Direct-Access DRAM-based Data Store</b>. Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Clemens Lutz, Martin Schmatz, Thomas R. Gross. <i>Proceedings of the 35th IEEE International Conference on Distributed Computing Systems (ICDCS'15)</i>, Columbus, Ohio, USA, June 29th - July 2nd, 2015.</li>
+
+            <p></p>
+            <li><b>A Hybrid I/O Virtualization Framework for RDMA-capable Network Interfaces.</b> Jonas Pfefferle, Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Ioannis Koltsidas, Thomas R. Gross. <i>Proceedings of the 11th ACM SIGPLAN/SIGOPS International Conference on Virtual Execution Environment (VEE'15)</i>, Istanbul, Turkey, March 2015.</li>
+
+            <p></p>
+            <li> <b>DaRPC: Data Center RPC.</b> Patrick Stuedi, Animesh Trivedi, Bernard Metzler, Jonas Pfefferle. <i>Proceedings of the 5th ACM Symposium on Cloud Computing 2014 (SoCC'14)</i>, Seattle, WA, USA, November 2014.</li>
+
+            <p></p>
+	    <li><b>On Limitations of Network Acceleration.</b> Animesh Trivedi, Bernard Metzler, Patrick Stuedi, and Thomas R. Gross.<i>Proceedings of the 9th International Conference on emerging Networking EXperiments and Technologies (CoNEXT'13)</i>, Santa Barbara, CA, USA, December 2013.</li>
+
+            <p></p>
+            <li><b>jVerbs: Ultra-low Latency for Data Center Applications.</b> Patrick Stuedi, Bernard Metzler, Animesh Trivedi. <i>Proceedings of the 4th ACM Symposium on Cloud Computing 2013 (SoCC'13)</i>, Santa Clara, CA, USA, October 2013.</li>
+
+            <p></p>
+	    <li><b>Uniﬁed High-Performance I/O: One Stack to Rule Them All. </b> Animesh Trivedi, Patrick Stuedi, Bernard Metzler, Roman Pletka, Blake G. Fitch, Thomas R. Gross.<i>Proceedings of the 14th Workshop on Hot Topics in Operating Systems (HotOS XIV)</i>, Santa Ana Pueblo, NM, USA, May 2013.</li>
+
+            <p></p>
+            <li><b>Wimpy Nodes with 10GbE: Leveraging One-Sided Operations in Soft RDMA to Boost Memcached.</b> Patrick Stuedi, Animesh Trivedi, Bernard Metzler. <i>Proceedings of the 2012 USENIX conference on Annual Technical Conference (ATC)</i>, Boston, USA, June 2012.</li>
+
+            <p></p>
+            <li><b>A Case for RDMA in Clouds: Turning Supercomputer Networking into Commodity.</b> Animesh Trivedi, Bernard Metzler, Patrick Stuedi. <i>Proceedings of the 2nd ACM SIGOPS Asia-Pacific Workshop on Systems (APSys 2011)</i>, Shanghai, China, July 2011.</li>
+
+        </ul>
+    </font>
+
+    <h2>Thesis</h2>
+    <font size="3">
+        <ul style="list-style-type:circle">
+            <li>Animesh Trivedi, End-to-End Considerations in Unification of High-Performance IO, PhD thesis, ETH Zurich, January, 2016. <a href="http://e-collection.library.ethz.ch/view/eth:49090"> [PDF]</a> </li>
+            <li>Animesh Trivedi, Hotplug in a multikernel operating system, Master's thesis, Department of Computer Science, ETH Zurich, August, 2009. <a href="http://e-collection.library.ethz.ch/view/eth:137"> [PDF] </a></li>
+        </ul>
+    </font>
+
+
+    <h1 id="contact">Contact</h1>
+    <br>
+    <font size="4">
+        You can contact me at: <b>firstname.lastname</b> AT <b>alumni</b> DOT <b>ethz</b> DOT <b>ch</b>
+    </font>
+
+    <h1></h1>
+    <h1></h1>
+    </div>
+</body>
+</html>

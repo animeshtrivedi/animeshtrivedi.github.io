@@ -1,0 +1,17 @@
+# Site settings
+title: Animesh Trivedi
+email: animesh.trivedi@gmail.com
+description: "Homepage of Animesh Trivedi"
+baseurl: ""
+url: "https://animeshtrivedi.github.io"
+#twitter_username: lauriswat
+github_username:  animeshtrivedi
+
+# Build settings
+markdown: kramdown
+permalink: pretty
+excerpt_separator: "<!-- more -->"
+
+gems:
+  - jekyll-sitemap
+

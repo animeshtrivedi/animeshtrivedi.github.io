@@ -1,0 +1,18 @@
+---
+layout: default
+title: Blog
+custom_title: Animesh Trivedi blog
+permalink: /blog/
+order: 4
+---
+
+<div>
+
+    {% assign index = true %}
+
+    {% for post in site.posts %}
+    {% assign page = post %}
+    {% include post.html %}
+    {% endfor %}
+
+</div>

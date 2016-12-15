@@ -30,12 +30,12 @@ DiSNI is a Java library for direct storage and networking access
 from userpace. It currently provides an RDMA interface. Support for 
 other userpace storage and networking interfaces, such as DPDK or 
 SPDK, are in planning. DiSNI source code is available 
-[here](https://github.com/zrlio/disni)
+[here](https://github.com/zrlio/disni).
 
 ## SoftiWARP 
 SoftiWARP (siw) is a software iWARP kernel driver and user library for 
 Linux. It implements the iWARP protocol suite (MPA/DDP/RDMAP, 
 IETF-RFC 5044/5041/5040) completely in software, without requiring 
 any dedicated RDMA hardware. SoftiWARP source code is available 
-[here](https://github.com/zrlio/softiwarp)
+[here](https://github.com/zrlio/softiwarp).
  

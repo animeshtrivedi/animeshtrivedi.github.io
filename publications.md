@@ -8,6 +8,18 @@ order: 3
 
 ## Publications 
 
+- **FlashNet: Flash/Network Stack Co-Design.** Animesh Trivedi, 
+Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, 
+Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. *Proceedings 
+of the 10th ACM International Systems and Storage Conference (SYSTOR'17)*, 
+Haifa, Israel, May 22-24, 2017.
+
+- **Crail: A High-Performance I/O Architecture for Distributed Data Processing.** 
+Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, 
+Nikolas Ioannou, Ioannis Koltsidas. *In the IEEE Bulletin of the Technical 
+Committee on Data Engineering*, Special Issue on Distributed Data Management 
+with RDMA, Volume 40, pages 40-52, March, 2017.
+
 - **On The [Ir]relevance of Network Performance for Data Processing.** 
 Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Radu Stoica, 
 Bernard Metzler, Ioannis Koltsidas, Nikolas Ioannou. *Proceedings of 

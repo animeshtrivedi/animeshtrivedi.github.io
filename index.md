@@ -11,9 +11,9 @@ order: 1
 style="float:right;width:25%;max-width:200px;margin-left:15px;"/></a>
 {% endraw %}
 
-I am **Animesh Trivedi**, a PostDoc in Cloud and Computing Infrastructure 
-group at the IBM Research Lab, Zurich Switzerland. Earlier in 2016, I 
-finished my PhD in Computer Science at ETH Zurich under the supervision 
+I am **Animesh Trivedi**, a Research Staff Member (RSM) in Cloud and Computing 
+Infrastructure group at the IBM Research Lab, Zurich Switzerland. Earlier in 2016, 
+I finished my PhD in Computer Science at ETH Zurich under the supervision 
 of Prof. Thomas Gross. 
  
 

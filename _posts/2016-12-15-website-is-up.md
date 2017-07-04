@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Website is up"
+title: "The website is up"
 category: news
 permalink: /website-is-up
 ---

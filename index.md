@@ -26,6 +26,27 @@ investigating how modern high-performance devices (think 40-100 Gbps
 network, NVMe flash, etc.) can be leveraged in large-scale data 
 processing systems such as Spark or Hadoop.
  
+<h2>News</h2>
+<ul class="news list-unstyled">
+{% for post in site.categories.news limit: site.front_page_news %}
+    {% if post.shortnews %}
+        <li class="shortnews">
+            <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
+            {{ post.content }}
+        </li>
+    {% else %}
+        <li class="bloglink">
+            <span class="date">{{ post.date | date: "%B %-d, %Y" }}</span>
+            <a href="{{ post.url }}">&raquo; {{ post.title }}</a>
+        </li>
+    {% endif %}
+{% endfor %}
+</ul>
+{% assign numposts = site.categories.news | size %}
+{% if numposts >= site.front_page_news %}
+<p><a href="{{ site.base }}/news/">Older posts&hellip;</a></p>
+{% endif %}
+
 
 ## Contact
 

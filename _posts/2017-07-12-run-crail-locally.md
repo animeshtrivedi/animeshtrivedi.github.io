@@ -15,8 +15,8 @@ First, a bit of background. What is CrailFS? CrailFS is a multi-tiered,
 distributed file system written from scratch to leverage high-performance 
 network and storage devices. CrailFS uses RDMA network with NVMeF protocol 
 to access remote DRAM and/or flash devices. Using a combination of a clever 
-design and a clean implementation, CrailFS can deliver very high performance 
-- think less than 5 usec latencies with 90+ Gbps bandwidth to data on modern 
+design and a clean implementation, CrailFS can deliver very high performance,
+think less than 5 usec latencies with 90+ Gbps bandwidth to data on modern 
 high-performance platforms. And this performance can also be translated to 
 high application-level performance. I will stop with the introduction here. 
 For more curious souls among us, I strongly recommend checking this Spark 

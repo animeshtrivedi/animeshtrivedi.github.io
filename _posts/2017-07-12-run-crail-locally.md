@@ -11,6 +11,7 @@ In this blog post I am going to show how to run Crail file system (CrailFS)
 from [www.crail.io](www.crail.io) ([github](https://github.com/zrlio/crail)) 
 locally on your laptop using its netty binding. 
 
+<!-- more -->
 First, a bit of background. What is CrailFS? CrailFS is a multi-tiered, 
 distributed file system written from scratch to leverage high-performance 
 network and storage devices. CrailFS uses RDMA network with NVMeF protocol 

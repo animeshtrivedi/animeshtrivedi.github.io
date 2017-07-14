@@ -7,8 +7,6 @@ permalink: /spark-parquet-reading
 
 ## How does Apache Spark read a parquet file
 
- *Note:* This blog post is work in progress with its content, accuracy, 
- and of course, formatting. 
  
  In this post I will try to explain what happens when Apache Spark tries 
  to read a parquet file. Apache [Parquet](https://parquet.apache.org/) 
@@ -23,6 +21,10 @@ permalink: /spark-parquet-reading
 as documented in the Spark SQL programming 
 [guide](https://spark.apache.org/docs/latest/sql-programming-guide.html#parquet-files).
 
+<!-- more --> 
+
+ *Note:* This blog post is work in progress with its content, accuracy, 
+ and of course, formatting. 
 
 This commentary is made on the `2.1` version of the source code, with 
 the Whole Stage Code Generation (WSCG) on.  

@@ -44,7 +44,7 @@ processing systems such as Spark or Hadoop.
 </ul>
 {% assign numposts = site.categories.news | size %}
 {% if numposts >= site.front_page_news %}
-<p><a href="{{ site.base }}/news/">Older posts&hellip;</a></p>
+<p><a href="{{ site.base }}/blog/">more posts&hellip;</a></p>
 {% endif %}
 
 

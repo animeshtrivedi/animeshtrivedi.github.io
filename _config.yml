@@ -12,6 +12,9 @@ markdown: kramdown
 permalink: pretty
 excerpt_separator: "<!-- more -->"
 
+# Number of news stories on the front page.
+front_page_news: 5
+
 gems:
   - jekyll-sitemap
 

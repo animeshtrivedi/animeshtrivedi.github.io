@@ -8,8 +8,8 @@ order: 3
 
 ## Publications 
 
-- **FlashNet: Flash/Network Stack Co-Design.** Animesh Trivedi, 
-Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, 
+- **FlashNet: Flash/Network Stack Co-Design.** (<span style="color:red">Best paper award!</span>) 
+Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, 
 Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. *Proceedings 
 of the 10th ACM International Systems and Storage Conference (SYSTOR'17)*, 
 Haifa, Israel, May 22-24, 2017.
@@ -72,8 +72,8 @@ Commodity**. Animesh Trivedi, Bernard Metzler, Patrick Stuedi.
 
 - **[PhD]** Animesh Trivedi, End-to-End Considerations in Unification of 
 High-Performance IO, PhD thesis, ETH Zurich, January, 2016. 
-[http://e-collection.library.ethz.ch/view/eth:49090](http://e-collection.library.ethz.ch/view/eth:49090)
+[https://doi.org/10.3929/ethz-a-010651949](https://doi.org/10.3929/ethz-a-010651949)
 
 - **[Master]** Animesh Trivedi, Hotplug in a Multikernel Operating System, 
 Master's thesis, Department of Computer Science, ETH Zurich, August, 2009. 
-[http://e-collection.library.ethz.ch/view/eth:137](http://e-collection.library.ethz.ch/view/eth:137)
+[https://doi.org/10.3929/ethz-a-005881972](https://doi.org/10.3929/ethz-a-005881972)

@@ -1,0 +1,32 @@
+# Site settings
+title: Animesh Trivedi
+email: animesh.trivedi@gmail.com
+description: "Homepage of Animesh Trivedi"
+baseurl: ""
+#url: "https://animeshtrivedi.github.io"
+url: "https://animeshtrivedi.github.io/testweb/"
+github_username:  animeshtrivedi
+
+# Build settings
+markdown: kramdown
+excerpt_separator: "<!-- more -->"
+
+# Number of news stories on the front page.
+front_page_news: 5
+
+gems:
+  - jekyll-sitemap
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/bk2dcradle"
+footer_text: "Jekyll theme inspired by researcher"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+
+
+

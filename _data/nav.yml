@@ -1,0 +1,11 @@
+- name: "Research"
+  link: "/research"
+
+- name: "Publications"
+  link: "/publications"
+
+- name: "Blog"
+  link: "/blog"
+
+- name: "Home"
+  link: "/"

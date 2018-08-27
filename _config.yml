@@ -19,7 +19,7 @@ gems:
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/bk2dcradle"
+footer_url: "https://github.com/ankitsultana/researcher"
 footer_text: "Jekyll theme inspired by researcher"
 
 sass:

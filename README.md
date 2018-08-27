@@ -6,7 +6,7 @@ I am Animesh Trivedi, a Research Staff Member (RSM) in Cloud and Computing Infra
 My main research areas are networking, operating systems, and distributed systems. Broadly speaking, I am interested in the performance aspect of systems, spanning from multi-core CPUs to distributed environments. In the past, I have designed, developed, and evaluated systems around high-performance RDMA networks and NVM storage. Currently, I am investigating how modern high-performance devices (think 40-100 Gbps network, NVMe flash, etc.) can be leveraged in large-scale data processing systems such as Spark or Hadoop. 
 
 ### Links 
-Homepage: [animeshtrivedi.github.com](animeshtrivedi.github.com)
+Homepage: [https://animeshtrivedi.github.io/](https://animeshtrivedi.github.io/)
 
 My notes wiki: [https://github.com/animeshtrivedi/notes/wiki](https://github.com/animeshtrivedi/notes/wiki)
 

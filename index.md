@@ -5,6 +5,7 @@ layout: default
 <a href="/images/animeshtrivedi-large.jpeg" title="View larger picture"><img src="/images/animeshtrivedi-small.jpeg" alt="Photo of Animesh Trivedi"
 style="float:right;width:25%;max-width:150px;margin-left:15px;"/></a>
 {% endraw %}
+<mark><b>Update:</b></mark> Starting from March 2019, I will be joining the Department of Computer Science, VU, Amsterdam as (tensure-track) Assistant Professor. 
 
 I am Research Staff Member (RSM) in Cloud and Computing Infrastructure group at the IBM Research Lab, Zurich, Switzerland. Before joining the lab, I finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.
 
@@ -35,7 +36,7 @@ My main research areas are networking, operating systems, and distributed system
 
 
 ### Contact
-Email me at: firstname.lastname@alumni.ethz.ch. I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
+Email me at: firstname.lastname on GMAIL(.com). I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
 ### Selected Recent Publications
 

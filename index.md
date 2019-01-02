@@ -49,7 +49,8 @@ Email me at: firstname.lastname on GMAIL(.com). I am also on [Github](https://gi
 
 Full list is <a href="{{ site.base }}/publications/"> here</a>.
 
-### Program Committees
+### Program Committees  
+  * USENIX ATC (2019, extended PC) 
   * ACM SYSTOR (2019)
   * ACM/IEEE CCGrid (2019) 
-
+  * IEEE Transactions on Parallel and Distributed Systems (TPDS)

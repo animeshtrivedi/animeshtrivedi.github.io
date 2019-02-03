@@ -1,0 +1,5 @@
+https://stackoverflow.com/questions/4304438/gem-install-failed-to-build-gem-native-extension-cant-find-header-files
+
+"I had same problem. I'm using Ubuntu18, there was jekyll already install, remove using "sudo apt remove jekyll" first before "bundle install", then everything OK."
+https://github.com/jekyll/jekyll/issues/7088
+

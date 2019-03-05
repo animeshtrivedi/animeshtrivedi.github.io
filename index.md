@@ -5,12 +5,20 @@ layout: default
 <a href="/images/animeshtrivedi-large.jpeg" title="View larger picture"><img src="/images/animeshtrivedi-small.jpeg" alt="Photo of Animesh Trivedi"
 style="float:right;width:25%;max-width:150px;margin-left:15px;"/></a>
 {% endraw %}
-<mark><b>Update:</b></mark> Starting from 2019, I will be joining the Department of Computer Science, VU, Amsterdam as (tenure-track) Assistant Professor. 
 
-I am Research Staff Member (RSM) in Cloud and Computing Infrastructure group at the IBM Research Lab, Zurich, Switzerland. Before joining the lab, I finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.
+<!-- <mark><b>Update:</b></mark> Starting from 2019, I will be joining the Department of Computer Science, VU, Amsterdam as (tenure-track) Assistant Professor. -->
+
+I am an Assistant Professor (tenure-track) at the [Department of Computer Science, VU, Amsterdam](https://www.cs.vu.nl/en/index.aspx). 
 
 
-My main research areas are networking, operating systems, and distributed systems. Broadly speaking, I am interested in the performance aspect of systems, spanning from multi-core CPUs to distributed environments. Currently, I am investigating how modern high-performance devices (100+ Gbps network, NVMe/3DXP storage, etc.) can be leveraged in large-scale data-processing systems such as Spark, Tensorflow, serverless workloads. I am one of the founding contributors of the [Apache Crail (Incubating)](https://crail.incubator.apache.org/) project. 
+Prior to joining VU, I was a Research Staff Member (RSM) in Cloud and Computing Infrastructure group at the IBM Research Lab, Zurich, Switzerland. Even before that, I obtained my PhD and MSc in Computer Science at ETH Zurich.
+<!-- finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.-->
+
+
+My main research areas are networking, storage, operating systems, and distributed systems. Broadly speaking, I am interested in the performance aspect of systems, spanning from multi-core CPUs to distributed environments. Currently, I am investigating how modern, programmable, high-performance devices (100+ Gbps network, NVMe/3DXP storage, etc.) can be leveraged in large-scale data-processing systems such as Spark, Tensorflow, serverless workloads. I am one of the founding contributors of the [Apache Crail (Incubating)](https://crail.incubator.apache.org/) project. 
+
+
+<mark><b>Update:</b></mark> I am looking for talented research students who like to hack on distributed systems, operating systems, data-processing frameworks on modern hardware. Have a look at my research projects and publications to get an idea about the type of work I do. Drop me an email if you are interested. 
 
 
 ### What is new
@@ -36,7 +44,7 @@ My main research areas are networking, operating systems, and distributed system
 
 
 ### Contact
-Email me at: firstname.lastname on GMAIL(.com). I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
+Email me at: firstname.lastname AT vu.nl. I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
 ### Selected Recent Publications
 

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "New blog: How to run Crail locally on your laptop"
+title: "Blog: How to run Crail locally on your laptop"
 category: blog
 tags: whatsnew
 permalink: /run-crail-locally

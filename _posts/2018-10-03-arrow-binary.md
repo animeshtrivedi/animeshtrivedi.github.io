@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "New blog: Investigating performance of Apache Arrow (Java) in-memory (p1)"
+title: "Blog: Investigating performance of Apache Arrow (Java) in-memory (p1)"
 category: blog
 tags: whatsnew
 ---

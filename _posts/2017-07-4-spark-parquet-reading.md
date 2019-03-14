@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "New blog: How Spark reads parquet files"
+title: "Blog: How Spark reads parquet files"
 category: blog
 tags: whatsnew
 permalink: /spark-parquet-reading

@@ -45,7 +45,7 @@ My main research areas are networking, storage, operating systems, and distribut
 
 ### Contact
   * *Email:* firstname.lastname AT vu.nl 
-  * *Office:* R420, W&N Building, VU, De Boelelaan 1105, 1081 HV Amsterdam
+  * *Office:* P432, W&N Building, VU, De Boelelaan 1105, 1081 HV Amsterdam
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
 ### Selected Recent Publications

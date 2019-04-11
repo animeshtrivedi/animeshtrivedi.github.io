@@ -5,4 +5,4 @@ custom_title: Teaching of Animesh Trivedi
 permalink: /teaching/
 
 ---
-TBA
+  * [Autumn, 2019] Advanced Topics in Distributed Systems (more details soon)

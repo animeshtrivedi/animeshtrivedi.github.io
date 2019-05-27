@@ -5,4 +5,6 @@ custom_title: Teaching of Animesh Trivedi
 permalink: /teaching/
 
 ---
-  * [Autumn, 2019] Advanced Topics in Distributed Systems (more details soon)
+  * [June, 2019] Guest lecture in Computer Networks 
+    * Title: An Introduction to RDMA Networking
+  * [P4, 2020] Advanced Topics in Distributed Systems (more details soon)

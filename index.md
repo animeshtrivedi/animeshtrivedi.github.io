@@ -44,6 +44,7 @@ Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtai
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
 ### Program Committees  
+  * The Web Conference 2020, Intelligent Systems and Infrastructure track
   * USENIX ATC (2019, extended PC) 
   * ACM SYSTOR (2019)
   * Euro-Par 2019

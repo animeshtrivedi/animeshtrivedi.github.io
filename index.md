@@ -40,7 +40,7 @@ Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtai
 
 ### Contact
   * *Email:* firstname.lastname AT vu.nl 
-  * *Office:* P432, W&N Building, VU, De Boelelaan 1081A, 1081 HV Amsterdam
+  * *Office:* 11A-33, NU building VU, De Boelelaan 1111, 1081 HV Amsterdam (we moved recently!)
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
 ### Program Committees  

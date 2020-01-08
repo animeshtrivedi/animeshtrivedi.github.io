@@ -15,7 +15,7 @@ My main research areas are networking, storage, operating systems, and distribut
 Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtained my PhD and MSc in Computer Science at ETH Zurich.
 <!-- finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.-->
 
-<mark><b>Update:</b></mark> I am looking for talented research students who like to hack on distributed systems, operating systems, data-processing frameworks. Drop me an email if you are interested. 
+<mark><b>Update:</b></mark> VU students: If you would like to work on distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work; (b) individual research course work; or (c) literature survey work at VU - drop me an email.
 
 ### What is new
 <ul class="news list-unstyled">

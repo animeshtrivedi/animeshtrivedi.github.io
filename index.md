@@ -15,7 +15,7 @@ My main research areas are networking, storage, operating systems, and distribut
 Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtained my PhD and MSc in Computer Science at ETH Zurich.
 <!-- finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.-->
 
-<mark><b>Update:</b></mark> I am looking for talented research students who like to hack on distributed systems, operating systems, data-processing frameworks. Drop me an email if you are interested. 
+<mark><b>VU students:</b></mark> If you would like to work on distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work; (b) individual research course work; or (c) literature survey work at VU - drop me an email.
 
 ### What is new
 <ul class="news list-unstyled">
@@ -40,7 +40,7 @@ Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtai
 
 ### Contact
   * *Email:* firstname.lastname AT vu.nl 
-  * *Office:* P432, W&N Building, VU, De Boelelaan 1081A, 1081 HV Amsterdam
+  * *Office:* 11A-33, NU building VU, De Boelelaan 1111, 1081 HV Amsterdam (we moved recently!)
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
 ### Program Committees  

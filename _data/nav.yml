@@ -7,6 +7,9 @@
 - name: "Publications"
   link: "/publications"
 
+- name: "Service"
+  link: "/service"
+
 - name: "Blog"
   link: "/blog"
 

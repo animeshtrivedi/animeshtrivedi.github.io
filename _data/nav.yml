@@ -12,6 +12,3 @@
 
 - name: "Blog"
   link: "/blog"
-
-- name: "Home"
-  link: "/"

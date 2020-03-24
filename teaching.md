@@ -12,3 +12,7 @@ permalink: /teaching/
   * P1 (Sep-Oct), 2019 - (co-teacher) Introduction to Computer Science (B.Sc) 
   * June, 2019 - Guest lecture in Computer Networks (B.Sc) 
     * Title: An Introduction to RDMA Networking
+
+## Useful links 
+  * [The Science of Scientific Writing](https://github.com/animeshtrivedi/notes/blob/master/docs/the-science-of-scientific-writing.pdf) - a must read for any report or paper that you plan to write. 
+  * [General advice and guidelines]() for students who work with me. 

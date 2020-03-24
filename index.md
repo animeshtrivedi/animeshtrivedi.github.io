@@ -43,11 +43,3 @@ Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtai
   * *Phone:* +31 20 598 22 19 
   * *Office:* 11A-33, NU building VU, De Boelelaan 1111, 1081 HV Amsterdam (we moved recently!)
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
-
-### Program Committees  
-  * The Web Conference 2020, Intelligent Systems and Infrastructure track
-  * USENIX ATC (2019, extended PC) 
-  * ACM SYSTOR (2019)
-  * Euro-Par 2019
-  * ACM/IEEE CCGrid (2019) 
-  * IEEE Transactions on Parallel and Distributed Systems (TPDS)

@@ -39,7 +39,8 @@ Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtai
 {% endif %}
 
 ### Contact
-  * *Email:* firstname.lastname AT vu.nl 
+  * *Email:* a.trivedi AT vu DOT nl 
+  * *Phone:* +31 20 598 22 19 
   * *Office:* 11A-33, NU building VU, De Boelelaan 1111, 1081 HV Amsterdam (we moved recently!)
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 

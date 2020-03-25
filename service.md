@@ -7,20 +7,23 @@ permalink: /service/
 ---
    
 ### Program Committee
-  * Middleware Doctoral Symposium (co-located with MiddleWare) 2020 
-  * The Web Conference 2020, Intelligent Systems and Infrastructure track
-  * USENIX ATC (2019, extended PC)
-  * ACM SYSTOR (2019)
-  * Euro-Par 2019
-  * ACM/IEEE CCGrid (2019)
+  * 2020 Middleware Doctoral Symposium (co-located with MiddleWare)
+  * 2020 ALGOCLOUD
+  * 2020 The Web Conference (Intelligent Systems and Infrastructure track)
+  * 2019 USENIX ATC (extended PC)
+  * 2019 ACM SYSTOR
+  * 2019 Euro-Par
+  * 2019 ACM/IEEE CCGrid
+  * 2020 ACM/SPEC ICPE (Research Papers track)
+  * 2019 3rd National Dutch Computer Systems Conference (CompSys)
 
 ### Journal Review 
   * ACM Transaction on Storage (ToS)
   * IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
 ### Conference/Meetup organization 
-  * CompSys 2020 
-  * Amsterdam Data Science (ADS) ICT Infrastrucutre Meetup 2020
+  * Chair, 2020 4th National Dutch Computer Systems Conference (CompSys)
+  * Co-organizer, 2020 Amsterdam Data Science (ADS) ICT Infrastrucutre Meetup
 
 ### Department Level 
   * CS@VU Diversity Officer 

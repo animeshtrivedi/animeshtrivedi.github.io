@@ -58,7 +58,10 @@ permalink: /publications/
 
 <hr>
 ## Talks
+  * **Albis: High-Performance File Format for Big Data Systems**, [CompSys 2020](https://www.compsys.science/2019/program). 
+
   * **Data processing at the speed of 100 Gbps@Apache Crail (Incubating)**, DataWorks Summit, San Jose, USA, 2018. [[Link]](https://dataworkssummit.com/san-jose-2018/session/data-processing-at-the-speed-of-100-gbpsapache-crail-incubating/) 
+
   * **FLOSS WEEKLY episode 458 - Crail**, November, 2017. [[Link]](https://twit.tv/shows/floss-weekly/episodes/458)
 
 <hr>

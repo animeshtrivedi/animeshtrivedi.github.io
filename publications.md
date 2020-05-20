@@ -9,6 +9,13 @@ permalink: /publications/
 | [Publications](#publications) | [Technical Reports, articles](#technical-reports-articles) | [Talks](#talks)  | [Presentations](#presentations) |  [Thesis](#thesis) |
 
 ## Publications
+
+  * **Stratus: Clouds with Principled Resource Management**, Kaveh Razavi<sup>#</sup> and Animesh Trivedi<sup>#</sup>, Proceedings of the *12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud'20)*, Boston, MA, USA, July 2020. (<sup># Equal contributions</sup>)
+
+  * **Towards Supporting Millions of Users in Modifiable Virtual Environments by Redesigning Minecraft-Like Games as Serverless Systems**, Jesse Donkervliet, Animesh Trivedi, Alexandru Iosup, Proceedings of the *12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud'20)*, Boston, MA, USA, July 2020.
+
+  * **Sharing and Caring of Data at the Edge**, Animesh Trivedi<sup>#</sup>, Lin Wang<sup>#</sup>, Henri Bal and Alexandru Iosup, Proceedings of the *3rd USENIX Workshop on Hot Topics in Edge Computing (HotEdge'20)*, Boston, MA, USA, June 2020. (<sup># Equal contributions</sup>)
+
   * **Unification of Temporary Storage in the NodeKernel Architecture**, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Ana Klimovic, Adrian Schuepbach and Bernard Metzler, Proceedings of the *2019 USENIX Annual Technical Conference (USENIX ATC 19)*, Renton, WA, USA, July 2019. 
 
   * **The AtLarge Vision on the Design of Distributed Systems and Ecosystems**, Alexandru Iosup, Laurens Versluis, Animesh Trivedi, Erwin van Eyk, Lucian Toader, Vincent van Beek, Giulia Frascaria, Ahmed Musaafir, Sacheendra Talluri, *IEEE International Conference on Distributed Computing Systems (ICDCS 2019)*, Dallas, Texas, USA, July, 2019. 

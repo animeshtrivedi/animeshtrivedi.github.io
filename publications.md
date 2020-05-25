@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Publications
 
-  * **Stratus: Clouds with Principled Resource Management**, Kaveh Razavi<sup>#</sup> and Animesh Trivedi<sup>#</sup>, Proceedings of the *12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud'20)*, Boston, MA, USA, July 2020. (<sup># Equal contributions</sup>)
+  * **Stratus: Clouds with Microarchitectural Resource Management**, Kaveh Razavi<sup>#</sup> and Animesh Trivedi<sup>#</sup>, Proceedings of the *12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud'20)*, Boston, MA, USA, July 2020. (<sup># Equal contributions</sup>)
 
   * **Towards Supporting Millions of Users in Modifiable Virtual Environments by Redesigning Minecraft-Like Games as Serverless Systems**, Jesse Donkervliet, Animesh Trivedi, Alexandru Iosup, Proceedings of the *12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud'20)*, Boston, MA, USA, July 2020.
 

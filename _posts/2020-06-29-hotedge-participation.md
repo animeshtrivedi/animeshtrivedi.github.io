@@ -6,6 +6,9 @@ permalink: /hotedge-participation/
 tags: whatsnew
 ---
 
+![](/images/hotedge banner.png "HotEdge2020")
+
+
 I attended [HotEdge 2020](https://www.usenix.org/conference/hotedge20/workshop-program) last week. When I submitted the paper in mid-February I had hardly any idea that the world was about to change so much in the coming weeks and months. Originally the conference was scheduled to take place in end-April 2020 in Santa Clara. Now it took place virtually on 25-26 June, 2020, right on the edge. :)
 
 **Edge is so much more:** This is my first participation at the HotEdge workshop. Though in the past I have attended HotCloud and HotOS, I expected HotEdge to be something like those workshops. I was happy to learn and see many papers about infrastructure synthesis, infrastructure services (storage, networking, benchmarking, applications), building benchmarking, usecases in multiple domains (cellular networks, autonomous driving, smart home, space) and of course, security and trust. As someone who is trying to get started in this area, I found the workshop discussions quite useful. The key takeaway message for me was that the field is still in an early stage, and there are many fundamental problems that need solving before writing and deploying edge applications become as convenient as cloud applications today. Overall, it has been a really good experience.

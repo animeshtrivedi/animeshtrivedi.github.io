@@ -36,4 +36,4 @@ Lastly, the poster sessions did not work for me. A few of them that I checked, I
 **Overall,** I enjoyed the workshop very much. For the next year, even if there is a physical conference I would still like some features of the online workshop to be included. Broadly speaking, I think we should offer online participation as a standard way of joining conferences besides physical attendance. To encourage participation, we can also consider reducing the participation fee for online participation. Online participation leaves more artifacts (vidoe, logs, Q/A, notes), is economical (time, money, energy required for participation), and greener to the environment (travelling).
 
 
-*PS~* We have 2 PhD position openings in VU Amsterdam. If you are interested then drop me an email with your CV. 
+*PS~* We have 2 PhD position openings in the area of Edge Computing at VU Amsterdam. We are part of the [CompSys group](https://www.vucompsys.net/). If you are interested then drop me an email with your CV.

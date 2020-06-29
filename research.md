@@ -21,7 +21,7 @@ The emerging next generation of cloud services like Granular and Serverless comp
 ### Efficient Machine Learning on Modern Devices
 How can modern NVM storage and high-performance networking technologies can help with building efficient machine learning pipelines? 
 
-## Old projects
+## Past projects
 
 ### High-Peroformance Relational Data Processing
 Currently, I am investigating what would it take to process relational SQL data at the rate of 100 Gbps - the rate at which modern networking and storage devices can serve data today. As a first step, I have investgiated the reading performance of file formats (JSON, Avro, Parquet, ORC, and Arrow). The finding are summaried in my [blog post](https://crail.incubator.apache.org/blog/2018/08/sql-p1.html) and our USENIX ATC 2018 [paper](https://www.usenix.org/system/files/conference/atc18/atc18-trivedi.pdf).

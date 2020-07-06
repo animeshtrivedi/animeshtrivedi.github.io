@@ -22,7 +22,7 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 
 <!-- <mark><a href="{{ site.base }}/ta-openings/">TA openings</a></mark> --> 
 
-If you are a computer systems researcher in the Netherlands, please consider joining [https://compsys-nl.slack.com/](https://compsys-nl.slack.com/). Please drop me an email. 
+If you are a computer systems researcher in the Netherlands, please consider joining [https://compsys-nl.slack.com/](https://compsys-nl.slack.com/), [[joining link](https://join.slack.com/t/compsys-nl/shared_invite/zt-fx78q58g-Veea9LReM5zA1QqRPQ6peA)].
 
 ### What is new
 <ul class="news list-unstyled">

@@ -10,6 +10,8 @@ permalink: /publications/
 
 ## Publications
 
+  * **Grade10: A Framework for Performance Characterization of Distributed Graph Processing**, Tim Hegeman, Animesh Trivedi, and Alexandru Iosup, Proceedings of the *IEEE Cluster 2020*, Kobe, Japan, September, 2020. 
+
   * **Stratus: Clouds with Microarchitectural Resource Management**, Kaveh Razavi<sup>#</sup> and Animesh Trivedi<sup>#</sup>, Proceedings of the *12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud'20)*, Boston, MA, USA, July 2020. (<sup># Equal contributions</sup>)
 
   * **Towards Supporting Millions of Users in Modifiable Virtual Environments by Redesigning Minecraft-Like Games as Serverless Systems**, Jesse Donkervliet, Animesh Trivedi, Alexandru Iosup, Proceedings of the *12th USENIX Workshop on Hot Topics in Cloud Computing (HotCloud'20)*, Boston, MA, USA, July 2020.
@@ -65,7 +67,7 @@ permalink: /publications/
 
 <hr>
 ## Talks
-  * **Albis: High-Performance File Format for Big Data Systems**, [CompSys 2020](https://www.compsys.science/2019/program). 
+  * **Albis: High-Performance File Format for Big Data Systems**, [CompSys 2019](https://www.compsys.science/2019/program). 
 
   * **Data processing at the speed of 100 Gbps@Apache Crail (Incubating)**, DataWorks Summit, San Jose, USA, 2018. [[Link]](https://dataworkssummit.com/san-jose-2018/session/data-processing-at-the-speed-of-100-gbpsapache-crail-incubating/) 
 

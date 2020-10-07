@@ -18,7 +18,7 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 
 <mark><b>VU students:</b></mark> If you would like to work on distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work; (b) individual research course work; or (c) literature survey work at VU - drop me an email. Also [my advice](/advice/) for working with me.
 
-<mark><b>TA openings:</b></mark> We have multiple [TA openings](/ta-openings/) in two courses.
+<!-- <mark><b>TA openings:</b></mark> We have multiple [TA openings](/ta-openings/) in two courses. -->
 
 <!-- <mark><a href="{{ site.base }}/ta-openings/">TA openings</a></mark> --> 
 

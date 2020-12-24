@@ -18,6 +18,11 @@ The emerging next generation of cloud services like Granular and Serverless comp
 
 [HotCloud 2020 paper](https://www.usenix.org/conference/hotcloud20/presentation/razavi)
 
+### CPU-free Comptuing 
+Since the beginning of computing, we have relied on the CPU for data processing. As the CPU performance improved over the decades, so did our data processing capabilities. However, we are hitting a plateau where not only the performance gains are stalling, but the CPU is now considered a major source of inefficiencies and security vulnerabilities. In this project, we are envisioning a world without CPUs. A CPU-free computing architecture can completely eliminate the CPU (0% usage) and associated inefficiencies from computing. The project will revolutionize the way computation is done by building a first-of-its-kind CPU-free data-processing application that leverages modern domain-specific, programmable non-CPU devices and accelerators available today.
+
+This is a [NWO funded project](https://www.nwo.nl/en/news/sixteen-groundbreaking-research-projects-launched-through-third-round-nwo-open-competition-xs) and we are looking for collaborators. Please email me if you are interested. 
+
 ### Efficient Machine Learning on Modern Devices
 How can modern NVM storage and high-performance networking technologies can help with building efficient machine learning pipelines? 
 

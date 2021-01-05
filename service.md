@@ -22,7 +22,9 @@ permalink: /service/
   * ACM Transaction on Storage (ToS)
   * IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
-### Conference/Meetup organization 
+### Conference/Meetup and Organization 
+  * Online Moderator, ICT.OPEN 2021
+  * Chair of the Steering Committee, the Amsterdam Data Science Thesis Awards
   * Chair, 2020 4th National Dutch Computer Systems Conference (CompSys)
   * Co-organizer, 2020 Amsterdam Data Science (ADS) ICT Infrastrucutre Meetup
 

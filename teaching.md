@@ -6,13 +6,21 @@ permalink: /teaching/
 
 ---
 ## Courses 
-  * P2 (Nov-Dec), 2020 - Storage Systems (M.Sc)
-  * P1 (Sep-Oct), 2020 - Advanced Network Programming (B.Sc)
-  * P4 (Feb-Mar), 2020 - Advanced Topics in Distributed Systems (M.Sc)
-  * P2 (Nov-Dec), 2019 - (co-teacher) Distributed Systems (M.Sc)
-  * P1 (Sep-Oct), 2019 - (co-teacher) Introduction to Computer Science (B.Sc) 
-  * June, 2019 - Guest lecture in Computer Networks (B.Sc) 
-    * Title: An Introduction to RDMA Networking
+  * Storage Systems (M.Sc) : [Nov-Dec'20](/2020-stosys-slides)
+  * Advanced Network Programming (B.Sc): Sep-Oct'20
+  * Advanced Topics in Distributed Systems (M.Sc): Feb-Mar'21, Feb-Mar'20
+    * paper reading seminar
+
+### Others
+  * Guest lecture - Distributed Systems (M.Sc) : Nov-Dec'19, Nov-Dec'20
+    * System architecture and programming models. [PDF](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2020/2020-pm-sa-ds.pdf)
+  * Guest lecture - Advanced Network Programming (Nov-Dec'19) 
+    * Congestion Control in Datacenters. [PDF](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-adv-network-Congestion-Control-in-Data-Centers.pdf)
+  * Guest lecture - Computer Architecture (B.Sc) : Nov-Dec'19, Feb-Mar'21
+    * I/O devices: Interrupts, and DMA. [PDF](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-comparch-io.pdf)
+  * Guest teacher - Introduction to Computer Science (B.Sc) : Sep-Oct'19, Oct'20
+  * Guest lecture - Computer Networks (B.Sc): June 2019
+    * Title: An Introduction to RDMA Networking. [PDF](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-adv-network-Congestion-Control-in-Data-Centers.pdf)
 
 ## Useful links 
   * [Advice](/lit-study/) - on how to do Literature Study course at VU.

@@ -20,7 +20,7 @@ permalink: /teaching/
     * I/O devices: Interrupts, and DMA. [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-comparch-io.pdf)
   * Guest teacher - Introduction to Computer Science (B.Sc) : Sep-Oct'19, Oct'20
   * Guest lecture - Computer Networks (B.Sc): June 2019
-    * Title: An Introduction to RDMA Networking. [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-adv-network-Congestion-Control-in-Data-Centers.pdf)
+    * Title: An Introduction to RDMA Networking. [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-bsc-Introduction-to-RDMA-Networking.pdf)
 
 ## My Advice on ... 
   * [Advice](/lit-study/) - on how to do Literature Study course at VU.

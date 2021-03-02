@@ -9,6 +9,8 @@ permalink: /publications/
 | [Publications](#publications) | [Technical Reports, articles](#technical-reports-articles) | [Talks](#talks)  | [Presentations](#presentations) |  [Thesis](#thesis) |
 
 ## Publications
+  * **GradeML: Towards Holistic Performance Analysis for Machine Learning Workflows**, Tim Hegeman, Matthijs Jansen, Alexandru Iosup and Animesh Trivedi (VU Amsterdam), Proceedings of the *4th Workshop on Hot Topics in Cloud Computing Performance* (HotCloudPerf 2021), Rennes, France, April 2021. 
+
   * **Healthor: Protecting the Weak in Heterogeneous DLTs with Health-aware Flow Control**, Jonas Theis (VU Amsterdam and IOTA Foundation), Luigi Vigneri (IOTA Foundation), Lin Wang, and Animesh Trivedi, Proceedings of the *4th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers (SERIAL 2020)*. 
 
   * **Grade10: A Framework for Performance Characterization of Distributed Graph Processing**, Tim Hegeman, Animesh Trivedi, and Alexandru Iosup, Proceedings of the *IEEE Cluster 2020*, Kobe, Japan, September, 2020. 

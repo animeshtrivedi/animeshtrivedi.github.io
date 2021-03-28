@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Resources for your thesis
-custom_title: Resources for your thesis
+title: Guidelines and resources for your thesis work at VU 
+custom_title: Guidelines and resources for your thesis work at VU 
 permalink: /thesis-resources/
 tags: whatsnew
 ---

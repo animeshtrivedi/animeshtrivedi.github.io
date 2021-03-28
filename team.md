@@ -8,7 +8,7 @@ permalink: /team/
 ### PhD 
   * Giulia Frascaria (with Lin Wang, 2021 - )
   * Matthijs Jansen (with Alexandu Iosup 2020 - )
-  * Tim Hegemen (with Alexandru Iosup, 2019 - )
+  * Tim Hegeman (with Alexandru Iosup, 2019 - )
 
 ### MSc students 
   * Jonas Theis, *Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization*. (2021)

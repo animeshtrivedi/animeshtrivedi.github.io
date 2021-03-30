@@ -22,11 +22,10 @@ permalink: /service/
   * ACM Transaction on Storage (ToS)
   * IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
-### Conference/Meetup and Organization 
+### Activities 
+  * Member of the Dutch Advanced School for Computing and Imaging ([ASCI](https://asci.tudelft.nl/)) Research Committee
   * Online Moderator, [ICT.OPEN 2021](https://www.ictopen.nl/programme2021)
   * Chair of the Steering Committee, [the Amsterdam Data Science Thesis Awards](https://amsterdamdatascience.nl/events/thesis-awards/)
   * Chair, 2020 4th National Dutch Computer Systems Conference ([CompSys](https://www.compsys.science/))
   * Co-organizer, 2020 Amsterdam Data Science (ADS) ICT Infrastrucutre Meetup
-
-### Department Level 
-  * CS@VU Diversity Officer 
+  * Department diversity officer, VU Amsterdam 

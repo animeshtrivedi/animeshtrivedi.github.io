@@ -24,6 +24,7 @@ This page contains many of the resources and advices that I share with my studen
 Lastly, take pride in your work, strive for excellence, and put out the best work you can - your name is attached to it! :) 
 
 ### Resources 
+   * How to use VU DAS system - [README](/das-readme).
    * What should be in your thesis, my [Notes on CS BSc and MSc Thesis Content at VU Amsterdam](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2021/vu_thesis_template_advice.pdf). 
    * Git tutorial by Lin Wang, see Tutorial 2 (Tutorial 2: version control and git), at [https://linwang.info/courses/introcs20/](https://linwang.info/courses/introcs20/). 
    * Example theses (*if you want to see any other examples, feel free to drop me an email*) 

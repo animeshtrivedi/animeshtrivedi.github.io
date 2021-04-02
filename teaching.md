@@ -26,4 +26,4 @@ I am teaching following courses:
 ## My notes 
   * Advice on [how to do Literature Study course at VU.](/lit-study/)
   * Advice on [how to work with me.](/advice/)
-  * Thesis-related resources and [how to do thesis work with me.](/thesis-resources)
+  * VU BSc and MSc [thesis-related resources.](/thesis-resources)

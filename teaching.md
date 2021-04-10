@@ -24,6 +24,7 @@ I am teaching following courses:
     * Title: An Introduction to RDMA Networking. [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-bsc-Introduction-to-RDMA-Networking.pdf)
 
 ## My notes 
+  * Advice on [CS BSc. and MSc. Thesis Content at VU Amsterdam](/thesis-content-advice/)
   * Advice on [how to do Literature Study course at VU.](/lit-study/)
   * Advice on [how to work with me.](/advice/)
   * VU BSc and MSc [thesis-related resources.](/thesis-resources)

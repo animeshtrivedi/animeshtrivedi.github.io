@@ -5,7 +5,7 @@ custom_title: Guidelines and resources for your thesis work at VU
 permalink: /thesis-resources/
 tags: whatsnew
 ---
-This page contains many of the resources and advices that I share with my students when they are doing their BSc and MSc thesis work (or even short research project). This is going to be a live document where I will continue to add resources. The current version is from March, 2021. 
+This page contains many of the resources and advice that I share with my students when they are doing their BSc and MSc thesis work (or even short research projects). This is going to be a live document where I will continue to add resources. The current version is from March, 2021. 
 
   * Get familiar with what is expected out of you in the thesis work. For some examples, please see the thesis examples below in Resources. In cases when it is not clear, ask me early enough. 
 

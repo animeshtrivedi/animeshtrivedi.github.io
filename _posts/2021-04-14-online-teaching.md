@@ -20,7 +20,7 @@ Lastly, from February to March 2021, I ran a flipped classroom paper reading sem
 
   * **Plan ahead with details:** Online courses require more detailed planning and instructions, as the opportunities of asking questions are restricted. Thus planning, course schedule, deadlines, grading criterias, assignment handbooks -- all should be ready and shared on day one of the class. Aim to do minimum changes to the timetable as it just creates more load for the students to keep track of changes. 
 
-  * **Be responsive online.** Messages and online posts are the only way students can currently reach us. I aim to reply within a few hours to any questions asked. Do not treat course emails as the best effort service. It hampers a student's learning experience. 
+  * **Be responsive, open, and approachable online.** Messages and online posts are the only way students can currently reach us. I aim to reply within a few hours to any questions asked. Do not treat course emails as the best effort service. It hampers a student's learning experience. Furthermore, put a bit of effort to come across as warm and approachable. These are difficult times for many of us, so a bit of flexibility, openness, and warm welcome to the online class goes a long way.
 
   * **Provide lecture recordings.** My preference is to record the lecture while giving them, instead of providing pre-recorded lectures. This way, there is spontaneity and opportunity to adjust the tone, pace, and details of the lectures based on the student feedback and questions. In any case of your choice, make sure that a lecture recording is available online for students to re-watch. 
 

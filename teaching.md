@@ -23,8 +23,11 @@ I am teaching following courses:
   * Guest lecture - Computer Networks (B.Sc): June 2019
     * Title: An Introduction to RDMA Networking. [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-bsc-Introduction-to-RDMA-Networking.pdf)
 
-## My notes 
-  * Advice on [CS BSc. and MSc. Thesis Content at VU Amsterdam](/thesis-content-advice/)
-  * Advice on [how to do Literature Study course at VU.](/lit-study/)
-  * Advice on [how to work with me.](/advice/)
-  * VU BSc and MSc [thesis-related resources.](/thesis-resources)
+## Useful resources for students 
+  * [2021] Advice on [CS BSc. and MSc. Thesis Content at VU Amsterdam](/thesis-content-advice/)
+  * [2021] VU BSc and MSc [thesis-related resources.](/thesis-resources)
+  * [2020] Advice on [how to do Literature Study course at VU.](/lit-study/)
+  * [2020] Advice on [how to work with me.](/advice/)
+ 
+## Further writeups 
+  * [2021] [6 months of online teaching experience](/2020-online-teaching/)

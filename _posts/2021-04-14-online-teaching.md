@@ -6,7 +6,7 @@ permalink: /2020-online-teaching/
 category: blog
 tags: whatsnew
 ---
-## My experience with 6 months of online teaching
+### My experience with 6 months of online teaching
 I have been teaching online from September 2020 till March 2021. During this time, I started two new courses - [Advanced Network Programming](https://animeshtrivedi.github.io/2020-anp-slides) and [Storage Systems](https://animeshtrivedi.github.io/2020-stosys-slides/), and continued running a paper reading seminar [Advanced Topics in Distributed Systems](https://studiegids.vu.nl/en/2020-2021/courses/X_405022). Due to their nature (seminar, lecture with programming homework), all three courses entailed a very different nature of interaction with students. Let me summarize my experience with these classes and my general experience and struggles. 
 <!-- more --> 
 

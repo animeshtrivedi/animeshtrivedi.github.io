@@ -8,7 +8,7 @@ permalink: /research/
 <!-- 
 I am a part of High-performance IO Research Group called ZRLIO at the Zurich Research lab. Most of our group’s work is open-sourced at [https://github.com/zrlio](https://github.com/zrlio). -->
 
-I have following active research projects. 
+I have the following active research projects:
 
 ### Efficient Machine Learning from Modern Storage Devices
 In machine learning, large models are associated with more accuracy and intelligence. Building and training of large models processes large amounts of data in CPU-attached and accelerator on-board DRAM memories, which are not scalable, energy-inefficient, and extremely expensive, thus putting large model training out of reach for many users. How can we leverage Non-Volatile Memory (NVM) storage technology to design a Machine-learning-from-Storage model training paradigm, where data is dynamically moved between NVM storage and DRAM memories on-demand, thus building a new class of cost- and energy-efficient system?

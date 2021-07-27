@@ -6,9 +6,10 @@ tags: whatsnew
 permalink: /compsys21-experience/
 ---
 
-## Reflection on organizing CompSys 2021 
+### Reflection on organizing CompSys 2021 
 
 CompSys is the Dutch local flagship conference ([https://www.compsys.science/](https://www.compsys.science/)) where Dutch PhD students and researchers showcase their research. It is held annually, and this year I organized the conference. This year also, it was the first time that the conference was organized online. For me it was a unique experience to organize and run the conference. 
+<!-- more --> 
 
 The paper submission planning and review process went smoothly. One of the key challenges for me was to invite new faces in the Dutch systems research and balance out the selection committee with equal representation from male/female researchers. Alas, unfortunately it turned out to be a more challenging task than I thought. Many female researchers are overworked and overcommitted. Broadly speaking, computer science has a gender problem, and even more so systems research. The community is working towards a solution, but it is not something that will change overnight. The best we can do is to keep an eye out, recognize, and promote excellence and potential. I would like to explicitly point out efforts made by the IPN EDI community ([https://ict-research.nl/edi-working-group/](https://ict-research.nl/edi-working-group/)), which I am a part of. Nonetheless, I am very grateful to all members of the program committee who helped us to review the paper and put together an interesting program ([https://www.compsys.science/2021/program](https://www.compsys.science/2021/program)) for all of us. 
 

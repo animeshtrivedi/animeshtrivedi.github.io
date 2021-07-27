@@ -12,7 +12,7 @@ permalink: /team/
 
 ### MSc students 
   * [research project] Tom Ebergen, *Emulating Edge Networks: An Evaluation of Latency and Bandwidth within Fogify*. (2021) 
-  * [research project] Corne Lukkene, *BPF Computational Storage Device for ZNS in QEMU*. (2021) 
+  * [research project] Corne Lukken, *BPF Computational Storage Device for ZNS in QEMU*. (2021) 
   * Ioannis Argyroulis, *Efficient State Machine Replication With RDMA RPCs in Java*. (2021)
   * Jonas Theis, *Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization*. (2021)
   * Giulia Frascaria, *e2BPF: an Evaluation of In-Kernel Data Processing with eBPF*. (2020)

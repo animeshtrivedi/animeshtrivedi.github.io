@@ -35,6 +35,8 @@ If you are a computer systems researcher in the Netherlands, please consider joi
   * [<mark>PhD Opening</mark> in the area of NVM storage support for ML](https://workingat.vu.nl/ad/phd-position-in-storage-support-for-machine-learning/w3s7ih), (**deadline: June 15th, 2021**).
   * <mark>CompSys'21 is happening</mark> (June 28th/29th 2021), see [the announcement](/compsys2021-announcement/).
 -->
+### Sticky  
+  * <mark>PhD Opening</mark> in the area of Non-volatile memory storage research, see [here](/21-phd-opening/).
 
 ### What is new
 <ul class="news list-unstyled">

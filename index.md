@@ -30,9 +30,11 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 
 If you are a computer systems researcher in the Netherlands, please consider joining [https://compsys-nl.slack.com/](https://compsys-nl.slack.com/), [[joining link](https://join.slack.com/t/compsys-nl/shared_invite/zt-fx78q58g-Veea9LReM5zA1QqRPQ6peA)].
 
+<!-- 
 ### Sticky  
   * [<mark>PhD Opening</mark> in the area of NVM storage support for ML](https://workingat.vu.nl/ad/phd-position-in-storage-support-for-machine-learning/w3s7ih), (**deadline: June 15th, 2021**).
   * <mark>CompSys'21 is happening</mark> (June 28th/29th 2021), see [the announcement](/compsys2021-announcement/).
+-->
 
 ### What is new
 <ul class="news list-unstyled">

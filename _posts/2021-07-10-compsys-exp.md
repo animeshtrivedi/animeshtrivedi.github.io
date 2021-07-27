@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Reflection on organizing CompSys 2021"
-category: news 
+category: blog
 tags: whatsnew
 permalink: /compsys21-experience/
 ---

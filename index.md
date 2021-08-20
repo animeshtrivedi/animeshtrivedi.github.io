@@ -11,7 +11,7 @@ style="float:right;width:25%;max-width:150px;margin-left:15px;"/></a>
 I am an Assistant Professor (tenure-track) at the [CompSys Section](https://www.vucompsys.net/) in the [Department of Computer Science, VU, Amsterdam](https://www.cs.vu.nl/en/index.aspx). 
 
 My main research areas are in storage, networking, operating systems, and distributed systems. Broadly speaking, I am interested in the performance aspect of systems, spanning from multi-core CPUs to distributed systems. Currently, I have following active interests 
-  * how to leverage fast and cheap NVM stroage (flash, optane) in data-heavy ML workloads
+  * how to leverage fast and cheap NVM storage (flash, optane) in data-heavy ML workloads
   * how design and build foundational software services for Edge computing
   * how to design next-generation of systems software for modern, programmable devices
 
@@ -23,7 +23,7 @@ I am one of the founding contributors of the [Apache Crail (Incubating)](https:/
 Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtained my PhD and MSc in Computer Science at ETH Zurich.
 finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.-->
 
-<mark><b>VU students:</b></mark> If you would like to work on distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work; (b) individual research course work; or (c) literature survey work at VU - drop me an email. Also [my advice](/advice/) for working with me.
+<mark><b>VU students:</b></mark> If you would like to work on storage systems (NVMe, OCSSDs, ZNS), distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work; (b) individual research course work; or (c) literature survey work at VU - drop me an email. Also [my advice](/advice/) for working with me.
 
 <!-- <mark><b>TA openings:</b></mark> We have multiple [TA openings](/ta-openings/) in two courses. -->
 

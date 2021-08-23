@@ -11,9 +11,9 @@ permalink: /team/
   * Tim Hegeman (with Alexandru Iosup, 2019 - )
 
 ### MSc students 
-  * [research project] Peter-Jan Gootzen, *Bento File System and the Art of Repeated Research*. (2021) 
-  * [research project] Tom Ebergen, *Emulating Edge Networks: An Evaluation of Latency and Bandwidth within Fogify*. (2021) 
-  * [research project] Corne Lukken, *BPF Computational Storage Device for ZNS in QEMU*. (2021) 
+  * [research project] Peter-Jan Gootzen, *Bento File System and the Art of Repeated Research*. [[PDF]](https://github.com/Peter-JanGootzen/bento_reproducibility_research/blob/master/Bento_and_the_Art_of_Repeated_Research.pdf) [[code]](https://github.com/Peter-JanGootzen/bento_reproducibility_research) (2021) 
+  * [research project] Tom Ebergen, *Emulating Edge Networks: An Evaluation of Latency and Bandwidth within Fogify*. [[code]](https://github.com/Tmonster/fogify-evaluation) (2021) 
+  * [research project] Corne Lukken, *BPF Computational Storage Device for ZNS in QEMU*. [[code]](https://github.com/Dantali0n/qemu-csd) (2021) 
   * Ioannis Argyroulis, *Efficient State Machine Replication With RDMA RPCs in Java*. (2021)
   * Jonas Theis, *Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization*. (2021)
   * Giulia Frascaria, *e2BPF: an Evaluation of In-Kernel Data Processing with eBPF*. (2020)

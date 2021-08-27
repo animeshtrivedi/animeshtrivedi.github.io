@@ -12,6 +12,8 @@ I am teaching following courses:
   * Advanced Topics in Distributed Systems (M.Sc): Feb-Mar'21, Feb-Mar'20
     * Paper reading seminar
 
+I am happy to share the editable slides for any of these lectures/classes. Please drop me an email. 
+
 ### Others
   * Guest lecture - Distributed Systems (M.Sc) : Nov-Dec'19, Nov-Dec'20
     * System architecture and programming models. [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2020/2020-pm-sa-ds.pdf)

@@ -9,6 +9,9 @@ permalink: /publications/
 | [Publications](#publications) | [Technical Reports, articles](#technical-reports-articles) | [Talks](#talks)  | [Presentations](#presentations) |  [Thesis](#thesis) |
 
 ## Publications
+
+  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award!(<\b><\i>). 
+  
   * **GradeML: Towards Holistic Performance Analysis for Machine Learning Workflows**, Tim Hegeman, Matthijs Jansen, Alexandru Iosup and Animesh Trivedi (VU Amsterdam), Proceedings of the *4th Workshop on Hot Topics in Cloud Computing Performance* (HotCloudPerf 2021), Rennes, France, April 2021. 
 
   * **Healthor: Protecting the Weak in Heterogeneous DLTs with Health-aware Flow Control**, Jonas Theis (VU Amsterdam and IOTA Foundation), Luigi Vigneri (IOTA Foundation), Lin Wang, and Animesh Trivedi, Proceedings of the *4th Workshop on Scalable and Resilient Infrastructures for Distributed Ledgers (SERIAL 2020)*. 
@@ -57,6 +60,9 @@ permalink: /publications/
 
 <hr>
 ## Technical reports, articles
+  * **ZCSD: a Computational Storage Device over Zoned Namespaces (ZNS) SSDs**, Corne Lukken, Giulia Frascaria, Animesh Trivedi, [https://arxiv.org/abs/2112.00142](https://arxiv.org/abs/2112.00142), (2021). [[PDF]](https://arxiv.org/pdf/2112.00142.pdf)
+  
+  * **A Case for a Programmable Edge Storage Middleware**, Giulia Frascaria, Animesh Trivedi, Lin Wang, [https://arxiv.org/pdf/2111.14720](https://arxiv.org/pdf/2111.14720) (2021). [[PDF]](https://arxiv.org/pdf/2111.14720.pdf)
 
   * **Safe and Efficient Remote Application Code Execution on Disaggregated NVM Storage with eBPF**, Kornilios Kourtis, Animesh Trivedi, Nikolas Ioannou, [https://arxiv.org/abs/2002.11528](https://arxiv.org/abs/2002.11528) (2020). [[PDF]](https://arxiv.org/pdf/2002.11528.pdf)
 

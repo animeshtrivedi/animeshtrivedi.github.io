@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Publications
 
-  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award!(<\b><\i>). 
+  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award!(</b></i>). 
   
   * **GradeML: Towards Holistic Performance Analysis for Machine Learning Workflows**, Tim Hegeman, Matthijs Jansen, Alexandru Iosup and Animesh Trivedi (VU Amsterdam), Proceedings of the *4th Workshop on Hot Topics in Cloud Computing Performance* (HotCloudPerf 2021), Rennes, France, April 2021. 
 
@@ -60,6 +60,11 @@ permalink: /publications/
 
 <hr>
 ## Technical reports, articles
+
+  * **Past, Present and Future of Computational Storage: A Survey,** Corne Lukken, and Animesh Trivedi, [http://arxiv.org/abs/2112.09691](http://arxiv.org/abs/2112.09691), (2021). [[PDF]](https://arxiv.org/pdf/2112.09691.pdf)
+
+  * **Bento File System and the Art of Repeated Research**, Peter-Jan Gootzen and Animesh Trivedi, [https://arxiv.org/abs/2112.06810](https://arxiv.org/abs/2112.06810), (2021). [[PDF]](https://arxiv.org/pdf/2112.06810.pdf)
+
   * **ZCSD: a Computational Storage Device over Zoned Namespaces (ZNS) SSDs**, Corne Lukken, Giulia Frascaria, Animesh Trivedi, [https://arxiv.org/abs/2112.00142](https://arxiv.org/abs/2112.00142), (2021). [[PDF]](https://arxiv.org/pdf/2112.00142.pdf)
   
   * **A Case for a Programmable Edge Storage Middleware**, Giulia Frascaria, Animesh Trivedi, Lin Wang, [https://arxiv.org/pdf/2111.14720](https://arxiv.org/pdf/2111.14720) (2021). [[PDF]](https://arxiv.org/pdf/2111.14720.pdf)

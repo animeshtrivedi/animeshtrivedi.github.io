@@ -37,7 +37,8 @@ If you are a computer systems researcher in the Netherlands, please consider joi
   * <mark>CompSys'21 is happening</mark> (June 28th/29th 2021), see [the announcement](/compsys2021-announcement/).
 -->
 ### Sticky  
-  * <mark>PhD Opening</mark> in the area of Non-volatile memory storage research, see [here](/21-phd-opening/).
+  * Dutch CompSys Research Manifesto, [https://www.compsys.science/](https://www.compsys.science/).
+
 
 ### What is new
 <ul class="news list-unstyled">

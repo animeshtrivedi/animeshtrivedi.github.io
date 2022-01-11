@@ -89,6 +89,12 @@ permalink: /publications/
 
 <hr>
 ## Presentations
+  * **ZCSD: a Computational Storage Device over Zoned Namespaces SSDs.**, Corne Lukken, Giulia Frascaria and Animesh Trivedi, at *2021 Dutch Computer Systems (CompSys’21) conference*, [https://www.compsys.science/2021/program](https://www.compsys.science/2021/program), Online, 2021.
+  
+  * **A Case for a Programmable Edge Storage Middleware.**, Giulia Frascaria, Animesh Trivedi and Lin Wang, at *2021 Dutch Computer Systems (CompSys’21) conference*, 
+  
+  * **GradeML: Towards Holistic Performance Analysis for Machine Learning Workflows**, Tim Hegeman, Matthijs Jansen, Alexandru Iosup and Animesh Trivedi, at *2021 Dutch Computer Systems (CompSys’21) conference*, [https://www.compsys.science/2021/program](https://www.compsys.science/2021/program), Online, 2021.
+
   * **NVMf based Integration of Non-volatile Memory in a Distributed System - Lessons learned**, Jonas Pfefferle, Bernard Metzler, Patrick Stuedi, Animesh Trivedi, Adrian Schuepbach, at *2018 OpenFabrics Alliance (OFA) International Developers’ Workshop*, Boulder, CO, USA.
 
   * **Using Crail for Analytics on disaggregated storage**, Patrick Stuedi, Jonas Pfefferle, Animesh Trivedi, Nikolas Ioannou, Radu Stoica, Bernard Metzler, Ioannis Koltsidas, at *8th Annual Non-Volatile Memories Workshop 2017*, San Diego, CA, USA.

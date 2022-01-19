@@ -38,6 +38,7 @@ If you are a computer systems researcher in the Netherlands, please consider joi
 -->
 ### Sticky  
   * Dutch CompSys Research Manifesto, [https://www.compsys.science/](https://www.compsys.science/).
+  * Tenure-track faculty opening at VU Amsterdam (deadline, March 1st, 2022), [https://werkenbij.vu.nl/ad/assistant-professor-tenure-track-in-multiscale-and-post-moore-architectures-for/c3kpq0](https://werkenbij.vu.nl/ad/assistant-professor-tenure-track-in-multiscale-and-post-moore-architectures-for/c3kpq0). 
 
 
 ### What is new

@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Publications
 
-  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award!(</b></i>). 
+  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award!(</i></b>). 
   
   * **GradeML: Towards Holistic Performance Analysis for Machine Learning Workflows**, Tim Hegeman, Matthijs Jansen, Alexandru Iosup and Animesh Trivedi (VU Amsterdam), Proceedings of the *4th Workshop on Hot Topics in Cloud Computing Performance* (HotCloudPerf 2021), Rennes, France, April 2021. 
 

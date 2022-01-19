@@ -10,7 +10,7 @@ permalink: /publications/
 
 ## Publications
 
-  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award!(</i></b>). 
+  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award</i></b>). 
   
   * **GradeML: Towards Holistic Performance Analysis for Machine Learning Workflows**, Tim Hegeman, Matthijs Jansen, Alexandru Iosup and Animesh Trivedi (VU Amsterdam), Proceedings of the *4th Workshop on Hot Topics in Cloud Computing Performance* (HotCloudPerf 2021), Rennes, France, April 2021. 
 
@@ -36,7 +36,7 @@ permalink: /publications/
 
   * **Albis: High-Performance File Format for Big Data Systems**, Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Adrian Schuepbach, Bernard Metzler, Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
 
-  * **FlashNet: Flash/Network Stack Co-Design**, Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017. (<b><i>Best paper award!</i></b>)
+  * **FlashNet: Flash/Network Stack Co-Design**, Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017. (<b><i>Best paper award</i></b>)
 
   * **Crail: A High-Performance I/O Architecture for Distributed Data Processing**, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Nikolas Ioannou, Ioannis Koltsidas. In *the IEEE Bulletin of the Technical Committee on Data Engineering*, Special Issue on Distributed Data Management with RDMA, Volume 40, pages 40-52, March, 2017.
 

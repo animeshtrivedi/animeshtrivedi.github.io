@@ -7,10 +7,11 @@ permalink: /teaching/
 ---
 ## Courses 
 I am teaching following courses: 
-  * Storage Systems (M.Sc) : [Nov-Dec'20](/2020-stosys-slides)
-  * Advanced Network Programming (B.Sc, with [Lin Wang](https://linwang.info/)): [Sep-Oct'20](/2020-anp-slides)
-  * Advanced Topics in Distributed Systems (M.Sc): Feb-Mar'21, Feb-Mar'20
+  * Storage Systems (M.Sc) - [course webpage](/course-stosys)
+  * Advanced Network Programming (B.Sc, with [Lin Wang](https://linwang.info/)): - [course webpage](/course-anp) 
+  * Advanced Topics in Distributed Systems (M.Sc): Feb-Mar'22 (running since 2019) 
     * Paper reading seminar
+    * Artifact evaluation
 
 I am happy to share the editable slides for any of these lectures/classes. Please drop me an email. 
 

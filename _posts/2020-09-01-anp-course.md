@@ -9,6 +9,11 @@ permalink: /course-anp/
 
 In our deeply interconnected world, many details of networking may appear cryptic to its users. In Sep-Oct 2020, together with [Lin Wang](https://linwang.info/), I designed and gave a new course called [Advanced Network Programming](https://studiegids.vu.nl/en/2020-2021/courses/XB_0048) for BSc. final year students at VU Amsterdam. Advanced Network Programming (ANP) course is aimed at teaching students about the recent networking research (research-oriented teaching) in general-purpose cloud computing. At the same time with the practical work, students are trained in state-of-the-practice networking tools used in everyday Linux networking stack (tcpdump, ping, traceroute, arping, netcat). 
 
+<p align="center">
+  <img width="200" src="/images/2021-anp.png" alt="The networking stack">
+  <b>Figure 1: Topics covered in ANP course</b> 
+</p>
+
 ### Lecture slides 
 Advanced Network Programming (ANP) ([VU catalogue](https://studiegids.vu.nl/en/2020-2021/courses/XB_0048)) is a BSc-level course. The goal of the course is to (i) make students aware of the internals of end-host and data center networking advancements; (ii) show practical tools to debug and analyze the Linux stack; (iii) teach low-level nitty and gritty details by implementing network protocols. We cover the following topics (2021, Animesh covers lecture 1-6, Lin covers lectures 7-11):
 
@@ -24,7 +29,7 @@ Advanced Network Programming (ANP) ([VU catalogue](https://studiegids.vu.nl/en/2
   10. **Cloud Networking:** Datacenter topologies, Fat tree, PortLand, Google's cloud networking.
   11. **Beyond Networking:** Video streaming internals, CBR, ABR, RTP, DASH, AWStream.
   
-Editable versions of slides 1-6 are available here (https://drive.google.com/drive/folders/1bnbdM4PWpd4khDjaApou0ZYL-rOBsY4b?usp=sharing)[https://drive.google.com/drive/folders/1bnbdM4PWpd4khDjaApou0ZYL-rOBsY4b?usp=sharing]. Others to follow soon... 
+Editable versions of slides 1-6 are available here [https://drive.google.com/drive/folders/1bnbdM4PWpd4khDjaApou0ZYL-rOBsY4b?usp=sharing](https://drive.google.com/drive/folders/1bnbdM4PWpd4khDjaApou0ZYL-rOBsY4b?usp=sharing). Others to follow soon... 
 
 ### Practical Work 
 

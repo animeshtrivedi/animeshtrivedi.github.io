@@ -61,8 +61,10 @@ permalink: /publications/
 
 <hr>
 ## Technical reports, articles
-
-  * **Past, Present and Future of Computational Storage: A Survey,** Corne Lukken, and Animesh Trivedi, [http://arxiv.org/abs/2112.09691](http://arxiv.org/abs/2112.09691), (2021). [[PDF]](https://arxiv.org/pdf/2112.09691.pdf)
+  
+  * **Key-Value Stores on Flash Storage Devices: A Survey** Krijn Doekemeijer, and Animesh Trivedi, [ https://arxiv.org/abs/2205.07975]( https://arxiv.org/abs/2205.07975), (2022). [[PDF]](https://arxiv.org/pdf/2205.07975.pdf)
+  
+  * **Past, Present and Future of Computational Storage: A Survey,** Corne Lukken, and Animesh Trivedi, [https://arxiv.org/abs/2112.09691](https://arxiv.org/abs/2112.09691), (2021). [[PDF]](https://arxiv.org/pdf/2112.09691.pdf)
 
   * **Bento File System and the Art of Repeated Research**, Peter-Jan Gootzen and Animesh Trivedi, [https://arxiv.org/abs/2112.06810](https://arxiv.org/abs/2112.06810), (2021). [[PDF]](https://arxiv.org/pdf/2112.06810.pdf)
 

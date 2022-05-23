@@ -62,6 +62,8 @@ permalink: /publications/
 <hr>
 ## Technical reports, articles
   
+  * **Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)** Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, [https://arxiv.org/abs/2205.08882](https://arxiv.org/abs/2205.08882), (2022). [[PDF]](https://arxiv.org/pdf/2205.08882)
+  
   * **Key-Value Stores on Flash Storage Devices: A Survey** Krijn Doekemeijer, and Animesh Trivedi, [ https://arxiv.org/abs/2205.07975]( https://arxiv.org/abs/2205.07975), (2022). [[PDF]](https://arxiv.org/pdf/2205.07975.pdf)
   
   * **Past, Present and Future of Computational Storage: A Survey,** Corne Lukken, and Animesh Trivedi, [https://arxiv.org/abs/2112.09691](https://arxiv.org/abs/2112.09691), (2021). [[PDF]](https://arxiv.org/pdf/2112.09691.pdf)

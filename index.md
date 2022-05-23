@@ -23,7 +23,7 @@ I am one of the founding contributors of the [Apache Crail (Incubating)](https:/
 Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtained my PhD and MSc in Computer Science at ETH Zurich.
 finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.-->
 
-<mark><b>VU students:</b></mark> If you would like to work on storage systems (NVMe, OCSSDs, ZNS), distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work; (b) individual research course work; or (c) literature survey work at VU - drop me an email. Also [my advice](/advice/) for working with me.
+<b>VU students:</b> If you would like to work on storage systems (NVMe, ZNS, flash, optane, SSDs, file systems, key-value stores), distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work; (b) individual research course work; or (c) literature survey work at VU - drop me an email. Also [my advice](/advice/) for working with me.
 
 <!-- <mark><b>TA openings:</b></mark> We have multiple [TA openings](/ta-openings/) in two courses. -->
 
@@ -37,6 +37,7 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
   * <mark>CompSys'21 is happening</mark> (June 28th/29th 2021), see [the announcement](/compsys2021-announcement/).
 -->
 ### Sticky  
+  * Vision paper for <mark>Hyperion</mark>, CPU-free computing Data Processing Unit (DPU): [PDF](https://arxiv.org/pdf/2205.08882.pdf) 
   * Dutch CompSys Research Manifesto, [https://www.compsys.science/](https://www.compsys.science/)
     * Complete ([PDF](https://bit.ly/ManifestoCompSysNL)), 2-page executive summary ([PDF](https://bit.ly/ManifestoCompSysNLSummary)), Flyer ([PDF](https://bit.ly/CompSysNLFlyerA4))
 

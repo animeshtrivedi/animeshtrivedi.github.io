@@ -27,6 +27,7 @@ I am happy to share the editable slides for any of these lectures/classes. Pleas
     * Title: An Introduction to RDMA Networking. [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2019/2019-bsc-Introduction-to-RDMA-Networking.pdf)
 
 ## Useful resources for students 
+  * [2022] [Asking for recommendation](/asking-for-recommendation/)
   * [2021] Advice on [CS BSc. and MSc. Thesis Content at VU Amsterdam](/thesis-content-advice/)
   * [2021] VU BSc and MSc [thesis-related resources.](/thesis-resources)
   * [2020] Advice on [how to do Literature Study course at VU.](/lit-study/)

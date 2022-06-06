@@ -61,6 +61,8 @@ permalink: /publications/
 
 <hr>
 ## Technical reports, articles
+
+  * **Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices** Nick Tehrany and Animesh Trivedi, [https://arxiv.org/abs/2206.01547](https://arxiv.org/abs/2206.01547), (2022). [[PDF]](https://arxiv.org/pdf/2206.01547)
   
   * **Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)** Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, [https://arxiv.org/abs/2205.08882](https://arxiv.org/abs/2205.08882), (2022). [[PDF]](https://arxiv.org/pdf/2205.08882)
   

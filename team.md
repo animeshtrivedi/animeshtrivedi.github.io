@@ -11,22 +11,23 @@ permalink: /team/
 
 ### MSc students 
 2022
-  * Krijn Doekemeijer (MSc thesis) - Key-Value store on ZNS storage (*work in progress*)
-  * Nick-Andian Tehrany (MSc thesis, with Alexandru Iosup) - ZNS integration with a file system (*work in progress*)
-  * [research project] Maximilian Barger - exploring FPGA integration with NVMe devices (*work in progress*)
-  * [research project] Nick-Andian Tehrany, *Understanding NVMe Zoned Namespace (ZNS) Devices*. [[code]](https://github.com/nicktehrany/ZNS-Study) (2022) (PDF coming soon)
-
-2021
-  * [research project] Peter-Jan Gootzen, *Bento File System and the Art of Repeated Research*. [[PDF]](https://github.com/Peter-JanGootzen/bento_reproducibility_research/blob/master/Bento_and_the_Art_of_Repeated_Research.pdf) [[code]](https://github.com/Peter-JanGootzen/bento_reproducibility_research) (2021) 
-  * [research project] Tom Ebergen, *Emulating Edge Networks: An Evaluation of Latency and Bandwidth within Fogify*. [[code]](https://github.com/Tmonster/fogify-evaluation) (2021) 
-  * [research project] Corne Lukken, *BPF Computational Storage Device for ZNS in QEMU*. [[code]](https://github.com/Dantali0n/qemu-csd) [[arxiv]](https://arxiv.org/abs/2112.00142) (2021) 
+  * [thesis] Krijn Doekemeijer (MSc thesis) - Key-Value store on ZNS storage (*work in progress*).
+  * [thesis] Nick-Andian Tehrany (MSc thesis, with Alexandru Iosup) - ZNS integration with a file system (*work in progress*).
+  * [research project] Maximilian Barger - exploring FPGA integration with NVMe devices (*work in progress*).
+  * [survey] Krijn Doekemeijer - Key-Value Stores on Flash Storage Devices: A Survey, [[arxiv]](https://arxiv.org/abs/2205.07975), (2022).
+  * [research project] Nick-Andian Tehrany, *Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices*. [[code]](https://github.com/nicktehrany/ZNS-Study), [[arxiv]](https://arxiv.org/abs/2206.01547) (2022). 
+  
+2021 
+  * [research project] Peter-Jan Gootzen, *Bento File System and the Art of Repeated Research*. [[PDF]](https://github.com/Peter-JanGootzen/bento_reproducibility_research/blob/master/Bento_and_the_Art_of_Repeated_Research.pdf) [[code]](https://github.com/Peter-JanGootzen/bento_reproducibility_research) (2021). 
+  * [research project] Tom Ebergen, *Emulating Edge Networks: An Evaluation of Latency and Bandwidth within Fogify*. [[code]](https://github.com/Tmonster/fogify-evaluation) (2021). 
+  * [research project] Corne Lukken, *BPF Computational Storage Device for ZNS in QEMU*. [[code]](https://github.com/Dantali0n/qemu-csd) [[arxiv]](https://arxiv.org/abs/2112.00142) (2021). 
   * [research project] Niels de Waal, *io_uring: A quantitative examination*, (2021). 
-  * Ioannis Argyroulis, *Efficient State Machine Replication With RDMA RPCs in Java*. (2021)
-  * Jonas Theis, *Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization*. (2021)
+  * [thesis] Ioannis Argyroulis, *Efficient State Machine Replication With RDMA RPCs in Java* (2021).
+  * [thesis] Jonas Theis, *Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization* (2021).
 
 2020 
-  * Giulia Frascaria, *e2BPF: an Evaluation of In-Kernel Data Processing with eBPF*. (2020)
-  * Thomas de Zeeuw, *Stored : A Distributed Immutable Blob Store in Rust*. (2020)
+  * [thesis] Giulia Frascaria, *e2BPF: an Evaluation of In-Kernel Data Processing with eBPF*. (2020)
+  * [thesis] Thomas de Zeeuw, *Stored : A Distributed Immutable Blob Store in Rust*. (2020)
 
 Pre-2020
   * Lukas Drescher (ETH Zurich), *Microsecond-level Scheduling for Apache Spark*. (2018) 

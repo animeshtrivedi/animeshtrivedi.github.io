@@ -23,7 +23,7 @@ I am one of the founding contributors of the [Apache Crail (Incubating)](https:/
 Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtained my PhD and MSc in Computer Science at ETH Zurich.
 finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.-->
 
-<b>VU students:</b> If you would like to work on storage systems (NVMe, ZNS, flash, optane, SSDs, file systems, key-value stores), distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work; (b) individual research course work; or (c) literature survey work at VU - drop me an email. Also [my advice](/advice/) for working with me.
+<b>VU students:</b> If you would like to work on storage systems (NVMe, ZNS, flash, optane, SSDs, file systems, key-value stores), distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work ([XM_0011](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/XM_0011#/)); (b) individual research course ([XM_405088](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/XM_405088#/)) work; or (c) literature survey work at VU ([X_405111](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/X_405111#/)) - drop me an email. Also [my advice](/advice/) for working with me, and other [useful resources for students](/teaching).
 
 <!-- <mark><b>TA openings:</b></mark> We have multiple [TA openings](/ta-openings/) in two courses. -->
 

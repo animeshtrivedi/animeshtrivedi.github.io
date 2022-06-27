@@ -11,6 +11,8 @@ permalink: /publications/
 ## Publications
   * **Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring**, Diego Didona, Jonas Pfefferle, Nikolas Ioannou, Bernard Metzler (IBM Research Zurich); Animesh Trivedi (VU Amsterdam), Proceedings of the *15th ACM International Systems and Storage Conference (SYSTOR’22)*, Haifa, Israel, June, 2022. 
 
+  * **Hyperion: A Unified, Zero-CPU Data-Processing Unit**, Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, at the *11th Workshop on Systems for Post-Moore Architectures (SPMA'22) workshop*, [https://sites.google.com/view/spma22eurosys/home](https://sites.google.com/view/spma22eurosys/home), Rennes, France, 2022. [[PDF]](https://drive.google.com/file/d/1-AE37IIijaCFG1UupTUXWl5yZbxjEv9n/view?usp=sharing)
+
   * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award</i></b>). 
   
   * **GradeML: Towards Holistic Performance Analysis for Machine Learning Workflows**, Tim Hegeman, Matthijs Jansen, Alexandru Iosup and Animesh Trivedi (VU Amsterdam), Proceedings of the *4th Workshop on Hot Topics in Cloud Computing Performance* (HotCloudPerf 2021), Rennes, France, April 2021. 

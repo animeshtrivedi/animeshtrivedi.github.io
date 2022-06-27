@@ -88,6 +88,8 @@ permalink: /publications/
 
 <hr>
 ## Talks
+  * **What is up with Storage Systems and Why Should You Care?**, Animesh Trivedi, at the *STORM student association*, [https://www.storm.vu/](https://www.compsys.science/2022/program), VU Amsterdam, 2022. [[PDF]](/files/2022/2022-storm-guest-lecture-why-storage-and-why-should-you-care.pdf)
+
   * **Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs).**, Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, at *2022 Dutch Computer Systems (CompSys’22) conference*, [https://www.compsys.science/2022/program](https://www.compsys.science/2022/program), Putten, The Netherlands, 2022. [[PDF]](/files/2022/2022-compsys-hyperion-zero-cpu-talk.pdf)
 
   * **Albis: High-Performance File Format for Big Data Systems**, [CompSys 2019](https://www.compsys.science/2019/program). 

@@ -8,6 +8,8 @@ permalink: /publications/
 |:---:|:---:|:---:|:---:|:---:|
 | [Publications](#publications) | [Technical Reports, articles](#technical-reports-articles) | [Talks](#talks)  | [Presentations](#presentations) |  [Thesis](#thesis) |
 
+Please see the [Team page](/team) for Bsc. and MSc. theses, surveys, and short project reports supervised by me. 
+
 ## Publications
   * **Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring**, Diego Didona, Jonas Pfefferle, Nikolas Ioannou, Bernard Metzler (IBM Research Zurich); Animesh Trivedi (VU Amsterdam), Proceedings of the *15th ACM International Systems and Storage Conference (SYSTOR’22)*, Haifa, Israel, June, 2022. 
 

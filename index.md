@@ -23,23 +23,25 @@ I am one of the founding contributors of the [Apache Crail (Incubating)](https:/
 Prior to joining VU, I was a Researcher at the IBM Research Lab, Zurich. I obtained my PhD and MSc in Computer Science at ETH Zurich.
 finished my PhD in Computer Science at ETH Zurich under the supervision of Prof. Thomas Gross.-->
 
-<b>VU students:</b> If you would like to work on storage systems (NVMe, ZNS, flash, optane, SSDs, file systems, key-value stores), distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work ([XM_0011](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/XM_0011#/)); (b) individual research course ([XM_405088](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/XM_405088#/)) work; or (c) literature survey work at VU ([X_405111](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/X_405111#/)) - drop me an email. Also [my advice](/advice/) for working with me, and other [useful resources for students](/teaching).
+<img style="float: middle; width: 8%;" src="/images/vu.png" alt="" /> <b>students:</b> If you would like to work on storage systems (NVMe, ZNS, flash, optane, SSDs, file systems, key-value stores), distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work ([XM_0011](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/XM_0011#/)); (b) individual research course ([XM_405088](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/XM_405088#/)) work; or (c) literature survey work at VU ([X_405111](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/X_405111#/)) - drop me an email. Also [my advice](/advice/) for working with me, and other [useful resources for students](/teaching).
 
 <!-- <mark><b>TA openings:</b></mark> We have multiple [TA openings](/ta-openings/) in two courses. -->
 
 <!-- <mark><a href="{{ site.base }}/ta-openings/">TA openings</a></mark> --> 
 
-**CompSysNL Slack:** If you are a computer systems researcher in the Netherlands, please consider joining the CompSys NL slack [https://compsys-nl.slack.com/](https://compsys-nl.slack.com/), [[joining link](https://join.slack.com/t/compsys-nl/shared_invite/zt-fx78q58g-Veea9LReM5zA1QqRPQ6peA)].
+<img style="float: middle; width: 4%;" src="/images/slack.svg" alt="" /> **CompSysNL Slack:** If you are a computer systems researcher in the Netherlands, please consider joining the CompSys NL slack [https://compsys-nl.slack.com/](https://compsys-nl.slack.com/), [[joining link](https://join.slack.com/t/compsys-nl/shared_invite/zt-fx78q58g-Veea9LReM5zA1QqRPQ6peA)].
 
 <!-- 
 ### Sticky  
   * [<mark>PhD Opening</mark> in the area of NVM storage support for ML](https://workingat.vu.nl/ad/phd-position-in-storage-support-for-machine-learning/w3s7ih), (**deadline: June 15th, 2021**).
   * <mark>CompSys'21 is happening</mark> (June 28th/29th 2021), see [the announcement](/compsys2021-announcement/).
 -->
-### Sticky  
-  * Vision paper for <mark>Hyperion</mark>, CPU-free computing Data Processing Unit (DPU): [PDF](https://arxiv.org/pdf/2205.08882.pdf) 
-  * Dutch CompSys Research Manifesto, [https://www.compsys.science/](https://www.compsys.science/)
-    * Complete ([PDF](https://bit.ly/ManifestoCompSysNL)), 2-page executive summary ([PDF](https://bit.ly/ManifestoCompSysNLSummary)), Flyer ([PDF](https://bit.ly/CompSysNLFlyerA4))
+
+### <img style="float: middle; width: 5%;" src="/images/sticky.png" alt="" /> Sticky    
+  * **CPU-free Computing**: *Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)*, [https://arxiv.org/abs/2205.08882](https://arxiv.org/abs/2205.08882), 2022, <a href="https://arxiv.org/pdf/2205.08882.pdf" target="_blank" rel="noopener noreferrer" style="background-color:white; color:white;font-weight:bold"><img style="float: middle; width: 3%;" src="/images/pdf.svg" alt="" /></a>.
+
+  * **Dutch CompSys Research Manifesto**, *Future Computer Systems and Networking Research in the Netherlands: A Manifesto*, [https://arxiv.org/abs/2206.03259](https://arxiv.org/abs/2206.03259), 2022, <a href="https://arxiv.org/pdf/2206.03259" target="_blank" rel="noopener noreferrer" style="background-color:white; color:white;font-weight:bold"><img style="float: middle; width: 3%;" src="/images/pdf.svg" alt="" /></a>.
+    * 2-page executive summary ([PDF](https://bit.ly/ManifestoCompSysNLSummary)), Flyer ([PDF](https://bit.ly/CompSysNLFlyerA4))
 
 ### What is new
 <ul class="news list-unstyled">

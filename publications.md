@@ -11,6 +11,8 @@ permalink: /publications/
 Please see the [Team page](/team) for Bsc. and MSc. theses, surveys, and short project reports supervised by me. 
 
 ## Publications
+  * **Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization**, Jonas Theis (VU Amsterdam/IOTA Foundation), Luigi Vigneri (IOTA Foundation), Lin Wang, and Animesh Trivedi (VU Amsterdam), Proceedings of the *ACM Journal on Distributed Ledger Technologies*, Just Accepted, July 2022, [https://doi.org/10.1145/3555676](https://doi.org/10.1145/3555676).
+
   * **Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring**, Diego Didona, Jonas Pfefferle, Nikolas Ioannou, Bernard Metzler (IBM Research Zurich); Animesh Trivedi (VU Amsterdam), Proceedings of the *15th ACM International Systems and Storage Conference (SYSTOR’22)*, Haifa, Israel, June, 2022. 
 
   * **Hyperion: A Unified, Zero-CPU Data-Processing Unit**, Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, at the *11th Workshop on Systems for Post-Moore Architectures (SPMA'22) workshop*, [https://sites.google.com/view/spma22eurosys/home](https://sites.google.com/view/spma22eurosys/home), Rennes, France, 2022. [[PDF]](https://drive.google.com/file/d/1-AE37IIijaCFG1UupTUXWl5yZbxjEv9n/view?usp=sharing)

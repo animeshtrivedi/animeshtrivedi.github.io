@@ -8,10 +8,12 @@ permalink: /publications/
 |:---:|:---:|:---:|:---:|:---:|
 | [Publications](#publications) | [Technical Reports, articles](#technical-reports-articles) | [Talks](#talks)  | [Presentations](#presentations) |  [Thesis](#thesis) |
 
-Please see the [Team page](/team) for Bsc. and MSc. theses, surveys, and short project reports supervised by me. 
+Please see the [Team page](/team) for Bsc. and MSc. theses, surveys, and short project reports done by the students supervised by me. 
+
+All papers PDFs are available at [here](https://github.com/animeshtrivedi/animeshtrivedi.github.io/tree/master/files/papers) for timely dissemination of scientific information. Please respect the paper-specific copyright. 
 
 ## Publications
-  * **Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization**, Jonas Theis (VU Amsterdam/IOTA Foundation), Luigi Vigneri (IOTA Foundation), Lin Wang, and Animesh Trivedi (VU Amsterdam), Proceedings of the *ACM Journal on Distributed Ledger Technologies*, Just Accepted, July 2022, [https://doi.org/10.1145/3555676](https://doi.org/10.1145/3555676).
+  * **Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization**, Jonas Theis (VU Amsterdam/IOTA Foundation), Luigi Vigneri (IOTA Foundation), Lin Wang, and Animesh Trivedi (VU Amsterdam), Proceedings of the *ACM Journal on Distributed Ledger Technologies*, Just Accepted, July 2022, [https://dl.acm.org/doi/10.1145/3555676](https://dl.acm.org/doi/10.1145/3555676).
 
   * **Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring**, Diego Didona, Jonas Pfefferle, Nikolas Ioannou, Bernard Metzler (IBM Research Zurich); Animesh Trivedi (VU Amsterdam), Proceedings of the *15th ACM International Systems and Storage Conference (SYSTOR’22)*, Haifa, Israel, June, 2022. 
 

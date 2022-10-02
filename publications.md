@@ -95,8 +95,9 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
   * **Understanding the Performance of Networked Flash Storage**, Animesh Trivedi, Bernard Metzler, Jonas Pfefferle, Patrick Stuedi, Nikolas Ioannou, Ioannis Koltsidas, Thomas R. Gross. IBM Technical Report Number RZ3906 (2016).[[PDF]](http://domino.research.ibm.com/library/cyberdig.nsf/papers/2E1891A103C715F58525802E0052799D)
 
 <hr>
+
 ## Talks
-  * **What is up with Storage Systems and Why Should You Care?**, Animesh Trivedi, at the *STORM student association*, [https://www.storm.vu/](https://www.compsys.science/2022/program), VU Amsterdam, 2022. [[PDF]](/files/2022/2022-storm-guest-lecture-why-storage-and-why-should-you-care.pdf)
+  * **What is up with Storage Systems and Why Should You Care?**, Animesh Trivedi, at *VU STORM student association*, [https://www.storm.vu/](https://www.storm.vu/), VU Amsterdam, 2022. [[PDF]](/files/2022/2022-storm-guest-lecture-why-storage-and-why-should-you-care.pdf)
 
   * **Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs).**, Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, at *2022 Dutch Computer Systems (CompSys’22) conference*, [https://www.compsys.science/2022/program](https://www.compsys.science/2022/program), Putten, The Netherlands, 2022. [[PDF]](/files/2022/2022-compsys-hyperion-zero-cpu-talk.pdf)
 
@@ -107,7 +108,17 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
   * **FLOSS WEEKLY episode 458 - Crail**, November, 2017. [[Link]](https://twit.tv/shows/floss-weekly/episodes/458)
 
 <hr>
-## Presentations
+## Presentations and posters 
+
+  * **OpenCSD: Unified Architecture for eBPF-powered Computational Storage Devices (CSD) with Filesystem Support**, Corne Lukken, and Animesh Trivedi, talk at the *2022 ICT.OPEN conference*, [https://www.ictopen.nl/](https://www.ictopen.nl/), Amsterdam, 2022. 
+
+  * **Autoscaling for Cache Enabled Data Analytics**, Sacheendra Talluri, Nikolas Herbst (University of Würzburg), Cristina Abad (ESPOL, Ecuador), Animesh Trivedi, Alexandru Iosup, poster at the *2022 ICT.OPEN conference*, [https://www.ictopen.nl/](https://www.ictopen.nl/), Amsterdam, 2022. 
+
+  * **GradeML: Collecting and Querying of Performance Data on Machine Learning Workflows**, Tim Hegeman, Alexandru Iosup, Animesh Trivedi, demo at the *2022 ICT.OPEN conference*, [https://www.ictopen.nl/](https://www.ictopen.nl/), Amsterdam, 2022. 
+
+  * **Bento File System and the Art of Repeated Research**, Peter-Jan Gootzen and Animesh Trivedi, poster at *2022 ICT.OPEN conference*, [https://www.ictopen.nl/](https://www.ictopen.nl/), Amsterdam, 2022. 
+
+  * **The SPEC-RG Reference Architecture for the Edge Continuum**, Matthijs Jansen, Auday Al-Dulaimy (Mälardalen University), Alessandro Papadopoulos (Mälardalen University),  Animesh Trivedi, Alexandru Iosup, poster at *2022 ICT.OPEN conference*, [https://www.ictopen.nl/](https://www.ictopen.nl/), Amsterdam, 2022. 
 
   * **ZCSD: a Computational Storage Device over Zoned Namespaces SSDs.**, Corne Lukken, Giulia Frascaria and Animesh Trivedi, at *2021 Dutch Computer Systems (CompSys’21) conference*, [https://www.compsys.science/2021/program](https://www.compsys.science/2021/program), Online, 2021.
   

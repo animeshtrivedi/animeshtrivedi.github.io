@@ -25,11 +25,10 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 
 <img style="float: middle; width: 8%;" src="/images/vu.png" alt="" /> <b>students:</b> If you would like to work on storage systems (NVMe, ZNS, flash, optane, SSDs, file systems, key-value stores), distributed systems (high performance storage, networking) and data-processing frameworks as (a) thesis work ([XM_0011](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/XM_0011#/)); (b) individual research course ([XM_405088](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/XM_405088#/)) work; or (c) literature survey work at VU ([X_405111](https://studiegids.vu.nl/en/Master/2021-2022/computer-science-joint-degree/X_405111#/)) - drop me an email. Also [my advice](/advice/) for working with me, and other [useful resources for students](/teaching).
 
-<!-- <mark><b>TA openings:</b></mark> We have multiple [TA openings](/ta-openings/) in two courses. -->
-
-<!-- <mark><a href="{{ site.base }}/ta-openings/">TA openings</a></mark> --> 
 
 <img style="float: middle; width: 4%;" src="/images/slack.svg" alt="" /> **CompSysNL Slack:** If you are a computer systems researcher in the Netherlands, please consider joining the CompSys NL slack [https://compsys-nl.slack.com/](https://compsys-nl.slack.com/), [[joining link](https://join.slack.com/t/compsys-nl/shared_invite/zt-fx78q58g-Veea9LReM5zA1QqRPQ6peA)].
+
+*Research Funding:* My research is generously funded by the Dutch Research Council (NWO), SURF, Western Digital, Xilinx, Amazon, and Mellanox - thank you all! 
 
 <!-- 
 ### Sticky  

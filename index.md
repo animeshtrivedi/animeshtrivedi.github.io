@@ -8,7 +8,7 @@ style="float:right;width:25%;max-width:150px;margin-left:15px;"/></a>
 
 <!-- <mark><b>Update:</b></mark> Starting from 2019, I will be joining the Department of Computer Science, VU, Amsterdam as (tenure-track) Assistant Professor. -->
 
-I am an Assistant Professor (tenure-track) at the [CompSys Section](https://www.vucompsys.net/) in the [Department of Computer Science, VU, Amsterdam](https://www.cs.vu.nl/en/index.aspx). 
+I am an Assistant Professor (tenured) at the [CompSys Section](https://www.vucompsys.net/) in the [Department of Computer Science, VU, Amsterdam](https://www.cs.vu.nl/en/index.aspx). 
 
 My main research areas are in storage, networking, operating systems, and distributed systems. Broadly speaking, I am interested in the performance aspect of systems, spanning from multi-core CPUs to distributed systems. Currently, I have following active interests 
   * how to leverage fast and cheap NVM storage (flash, optane) in data-heavy ML workloads
@@ -64,7 +64,7 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 <p><a href="{{ site.base }}/news/">more posts&hellip;</a></p>
 {% endif %}
 
-**Bio:** Animesh Trivedi is a tenure-track Assistant Professor in the Computer Science department at VU Amsterdam. His research interests lie in building fast and efficient systems using modern hardware. He's currently focusing on two emerging research directions. First, how to leverage cheap and fast Flash and Optane NVM storage devices to support demands of data-heavy machine learning workloads. Second, how to design and build foundational software infrastructure and services for the next generation of edge computing applications. Prior to joining VU Amsterdam in 2019, he has worked as a Research Staff Member at the IBM Research Lab in Zürich. He holds a PhD and Master from ETH Zürich. More about his work can be found at [https://animeshtrivedi.github.io](https://animeshtrivedi.github.io).
+**Bio:** Animesh Trivedi is a tenured Assistant Professor in the Computer Science department at VU Amsterdam. His research interests lie in building fast and efficient systems using modern hardware. He's currently focusing on two emerging research directions. First, how to leverage cheap and fast Flash and Optane NVM storage devices to support demands of data-heavy machine learning workloads. Second, how to design and build foundational software infrastructure and services for the next generation of edge computing applications. Prior to joining VU Amsterdam in 2019, he has worked as a Research Staff Member at the IBM Research Lab in Zürich. He holds a PhD and Master from ETH Zürich. More about his work can be found at [https://animeshtrivedi.github.io](https://animeshtrivedi.github.io).
 
 <!-- 
 Animesh Trivedi is a tenure-track Assistant Professor in the department of Computer Science at VU Amsterdam. Prior to joining the department in 2019, he has worked as a Research Staff Member at the IBM Research Lab in Zurich. His research interests lie in building fast and efficient distributed systems around modern high-performance, programmable I/O devices. He is currently investigating how to leverage emerging Non-Volatile Memories (NVMs) to support data access demands of machine learning workloads. He is one of the founding members of the Apache Crail (Incubating) project. He holds a PhD and master from ETH Zurich. More about his work can be found at [https://animeshtrivedi.github.io](https://animeshtrivedi.github.io).-->

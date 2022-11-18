@@ -5,6 +5,10 @@ custom_title: Team led by Animesh Trivedi
 permalink: /team/
 ---
 <!-- <a href="https://" target="_blank" rel="noopener noreferrer" style="background-color:skyblue; color:white;font-weight:bold">[PDF]</a>, <a href="" target="_blank" rel="noopener noreferrer" style="background-color:green; color:white; font-weight:bold">[code]</a> -->
+
+|:---:|:---:|:---:|:---:|:---:|
+| [PhD students](#phd) | [MSc students work](#msc-students) | [BSc students work](#bsc-students) |
+
 ## PhD 
   * Zebin Ren (2022 - )
   * Matthijs Jansen (with Alexandu Iosup 2020 - )

@@ -13,6 +13,12 @@ Please see the [Team page](/team) for Bsc. and MSc. theses, surveys, and short p
 All papers PDFs are available at [here](https://github.com/animeshtrivedi/animeshtrivedi.github.io/tree/master/files/papers) for timely dissemination of scientific information. Please respect the paper-specific copyright. 
 
 ## Publications
+
+  * **Performance Measurement of Distributed Storage on Edge Devices**, Priyam Loganathan (BITS Pilani, Goa, India), Dhruv Rauthan (BITS Pilani, Goa, India), Animesh Trivedi (VU Amsterdam, The Netherlands), Vinayak Naik (BITS Pilani, Goa, India), at the TASIR Workshop: Testbeds for Advanced Systems Implementation and Research (co-located with the 15th International Conference on COMmunication Systems & NETworkS (COMSNETS 2023)) [link](https://www.comsnets.org/TASIR_workshop.html#accepted_papers), Bengaluru, India, January 2023.
+
+  
+  * **Efficiently Improving the Performance of Serverless Applications with Microtask-based Scheduling**, Sacheendra Talluri, Sven Lankester, Bogdan Ene, Jesse Donkervliet, Animesh Trivedi, and  Alexandru Iosup (VU Amsterdam), at the 4th International Workshop on Cloud, IoT and Fog Systems (and Security) [CIFS 2022](http://cifs.servicelaboratory.ch/cifs2022), Vancouver, Washington, USA, December, 2022. 
+  
   * **Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization**, Jonas Theis (VU Amsterdam/IOTA Foundation), Luigi Vigneri (IOTA Foundation), Lin Wang, and Animesh Trivedi (VU Amsterdam), Proceedings of the *ACM Journal on Distributed Ledger Technologies*, Just Accepted, July 2022, [https://dl.acm.org/doi/10.1145/3555676](https://dl.acm.org/doi/10.1145/3555676).
 
   * **Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring**, Diego Didona, Jonas Pfefferle, Nikolas Ioannou, Bernard Metzler (IBM Research Zurich); Animesh Trivedi (VU Amsterdam), Proceedings of the *15th ACM International Systems and Storage Conference (SYSTOR’22)*, Haifa, Israel, June, 2022. 

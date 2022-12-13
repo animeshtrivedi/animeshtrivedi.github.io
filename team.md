@@ -10,9 +10,10 @@ permalink: /team/
 | [PhD students](#phd) | [MSc students work](#msc-students) | [BSc students work](#bsc-students) |
 
 ## PhD 
+  * Krijn Doekemeijer (co-supervised with [Bala Chandrasekaran](https://balakrishnanc.github.io/), 2022 - )
   * Zebin Ren (2022 - )
-  * Matthijs Jansen (with Alexandu Iosup 2020 - )
-  * Sacheendra Talluri (50%, with Alexandu Iosup 2019 - )
+  * Matthijs Jansen (co-supervised with [Alexandu Iosup](https://atlarge-research.com/aiosup/), 2020 - )
+  * Sacheendra Talluri (50%, co-supervised with [Alexandu Iosup](https://atlarge-research.com/aiosup/), 2019 - )
 
 ## MSc students 
 These are the research project works that are directly supervised by me. 

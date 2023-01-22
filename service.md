@@ -10,6 +10,7 @@ permalink: /service/
   * 2023, USENIX Annual Technical Conference (ATC)
   * 2023, ACM International Systems and Storage Conference (Systor)
   * 2023, ACM/IFIP/USENIX Middleware 
+  * 2023, The International Conference on Parallel Processing (ICPP)
   * 2023, IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
   * 2022, Supercomputing (Programming Frameworks and System Software area), SC'22 
   * 2022, Supercomputing Tutorials Committee Member

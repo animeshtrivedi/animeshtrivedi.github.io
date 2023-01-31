@@ -42,6 +42,8 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
   * **Dutch CompSys Research Manifesto**, *Future Computer Systems and Networking Research in the Netherlands: A Manifesto*, [https://arxiv.org/abs/2206.03259](https://arxiv.org/abs/2206.03259), 2022, <a href="https://arxiv.org/pdf/2206.03259" target="_blank" rel="noopener noreferrer" style="background-color:white; color:white;font-weight:bold"><img style="float: middle; width: 3%;" src="/images/pdf.svg" alt="" /></a>.
     * 2-page executive summary ([PDF](https://bit.ly/ManifestoCompSysNLSummary)), Flyer ([PDF](https://bit.ly/CompSysNLFlyerA4))
 
+  * **Modern Storage System (StoSys)** course lectures are publically available on my [teaching page](/course-stosys). If you are interested in setting up such a course, drop me an email to share project material. 
+  
 ### What is new
 <ul class="news list-unstyled">
 {% for post in site.tags.whatsnew limit: site.front_page_news %}

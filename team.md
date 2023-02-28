@@ -16,7 +16,7 @@ permalink: /team/
   * Sacheendra Talluri (since 2019, 50%, co-supervised with [Alexandu Iosup](https://atlarge-research.com/aiosup/))
 
 ## MSc students 
-These are the research project works that are directly supervised by me. 
+These are the research project works ([XM_405088](https://studiegids.vu.nl/EN/courses/2022-2023/XM_405088#/) or [XM_0129](https://studiegids.vu.nl/EN/courses/2022-2023/XM_0129) or [XM_0130](https://studiegids.vu.nl/en/Master/2022-2023/computer-science-joint-degree/XM_0130)) that are directly supervised by me. 
 
 ### 2023 
   * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Nick-Andian Tehrany (MSc thesis, TU Delft, with [Alexandru Iosup](https://atlarge-research.com/aiosup/)) - NVMe ZNS integration with F2FS.

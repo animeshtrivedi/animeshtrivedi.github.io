@@ -28,7 +28,7 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 
 <img style="float: middle; width: 4%;" src="/images/slack.svg" alt="" /> **CompSysNL Slack:** If you are a computer systems researcher in the Netherlands, please consider joining the CompSys NL slack [https://compsys-nl.slack.com/](https://compsys-nl.slack.com/), [[joining link](https://join.slack.com/t/compsys-nl/shared_invite/zt-fx78q58g-Veea9LReM5zA1QqRPQ6peA)].
 
-*Research Funding:* My research is generously funded by the Dutch Research Council (NWO), SURF, Western Digital, Xilinx, Amazon, and Mellanox - thank you all! 
+**Research Funding:** My research is generously funded by the Dutch Research Council (NWO), SURF, Western Digital, Xilinx, Amazon, and Mellanox - thank you all! 
 
 <!-- 
 ### Sticky  

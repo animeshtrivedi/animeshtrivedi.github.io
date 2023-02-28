@@ -14,6 +14,14 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
 ## Publications
 
+  * **The SPEC-RG Reference Architecture for the Compute Continuum**, Matthijs Jansen, Auday Al-Dulaimy, Allesandro Vittorio Papadopoulos, Animesh Trivedi, Alexandru Iosup, The 23rd IEEE/ACM International Symposium on Cluster, Cloud, and Internet Computing, [CCGRID](https://ccgrid2023.iisc.ac.in/), 2023. 
+
+  * **Continuum: Automate Infrastructure Deployment and Benchmarking in the Compute Continuum**, Matthijs Jansen, Linus Wagner, Animesh Trivedi, Alexandru Iosup, The First FastContinuum Workshop, [ICPE FastContinuum](https://sites.google.com/view/fastcontinuum-2023/home), 2023.
+
+  * **Can My WiFi Handle the Metaverse? A Performance Evaluation Of Meta’s Flagship Virtual Reality Hardware**, Jesse Donkervliet, Matthijs Jansen, Animesh Trivedi, Alexandru Iosup, 6th Workshop on Hot Topics in Cloud Computing Performance, [ICPE HotCloudPerf](https://hotcloudperf.spec.org/), 2023.
+
+  * **Performance Measurement of Distributed Storage on Edge Devices**, Priyam Loganathan (BITS Pilani, Goa, India), Dhruv Rauthan (BITS Pilani, Goa, India), Animesh Trivedi (VU Amsterdam, The Netherlands), Vinayak Naik (BITS Pilani, Goa, India), at the TASIR Workshop: Testbeds for Advanced Systems Implementation and Research (co-located with the 15th International Conference on COMmunication Systems & NETworkS (COMSNETS 2023)) [link](https://www.comsnets.org/TASIR_workshop.html#accepted_papers), Bengaluru, India, January 2023.
+
   * **Performance Measurement of Distributed Storage on Edge Devices**, Priyam Loganathan (BITS Pilani, Goa, India), Dhruv Rauthan (BITS Pilani, Goa, India), Animesh Trivedi (VU Amsterdam, The Netherlands), Vinayak Naik (BITS Pilani, Goa, India), at the TASIR Workshop: Testbeds for Advanced Systems Implementation and Research (co-located with the 15th International Conference on COMmunication Systems & NETworkS (COMSNETS 2023)) [link](https://www.comsnets.org/TASIR_workshop.html#accepted_papers), Bengaluru, India, January 2023.
 
   

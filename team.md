@@ -18,8 +18,12 @@ permalink: /team/
 ## MSc students 
 These are the research project works ([XM_405088](https://studiegids.vu.nl/EN/courses/2022-2023/XM_405088#/) or [XM_0129](https://studiegids.vu.nl/EN/courses/2022-2023/XM_0129) or [XM_0130](https://studiegids.vu.nl/en/Master/2022-2023/computer-science-joint-degree/XM_0130)) that are directly supervised by me. 
 
+
 ### 2023 
-  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Nick-Andian Tehrany (MSc thesis, TU Delft, with [Alexandru Iosup](https://atlarge-research.com/aiosup/)) - NVMe ZNS integration with F2FS.
+  * <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Nick-Andian Tehrany (MSc thesis, TU Delft, with [Alexandru Iosup](https://atlarge-research.com/aiosup/)), *msF2FS: Design and Implementation of an NVMe ZNS SSD Optimized F2FS File System*, 2023, <a href="https://drive.google.com/file/d/11Y6YF-kbOUHZA6xo-U2A5J9dNmaOZW04/view?usp=share_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/nicktehrany/msF2FS" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. 
+  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Wiebe van Breukelen (with ETH Zurich), *On optimization of persistent memory file systems*.
+  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Niels de Waal, *Design of high performance timeseries databases*.
+  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Peter-Jan Gootzen (with IBM Reseach Zurich), *On file system virtualization using DPUs*.
 
 ### 2022
   * <span style="color:#AF7817;font-weight:bold">[survey]</span> Wiebe van Breukelen, *Persistent Memory File Systems: A Survey*, 2022, <a href="https://drive.google.com/file/d/1EF-tTEDwYYoFOzywlC-STLqHYlGmyGDx/view?usp=share_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>.

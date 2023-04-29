@@ -124,6 +124,11 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 <hr>
 ## Presentations and posters 
 
+  * **DPFS: DPU-powered File System Virtualization**, Peter-Jan Gootzen, Jonas Pfefferle, Radu Stoica, and Animesh Trivedi, talk at the *19th annual OpenFabrics Alliance (OFA) Workshop*, [https://www.openfabrics.org/2023-ofa-virtual-workshop-agenda/](https://www.openfabrics.org/2023-ofa-virtual-workshop-agenda/), 2023. 
+  
+
+  * **OpenCSD, simple and intuitive computational storage emulation with QEMU and eBPF. After all, why not turn your computer into a distributed system?**,  Corne Lukken, and Animesh Trivedi, talk at the *2023 FOSDEM*, [https://fosdem.org/2023/schedule/event/csd/](https://fosdem.org/2023/schedule/event/csd/), Amsterdam, 2022. 
+
   * **OpenCSD: Unified Architecture for eBPF-powered Computational Storage Devices (CSD) with Filesystem Support**, Corne Lukken, and Animesh Trivedi, talk at the *2022 ICT.OPEN conference*, [https://www.ictopen.nl/](https://www.ictopen.nl/), Amsterdam, 2022. 
 
   * **Autoscaling for Cache Enabled Data Analytics**, Sacheendra Talluri, Nikolas Herbst (University of Würzburg), Cristina Abad (ESPOL, Ecuador), Animesh Trivedi, Alexandru Iosup, poster at the *2022 ICT.OPEN conference*, [https://www.ictopen.nl/](https://www.ictopen.nl/), Amsterdam, 2022. 

@@ -37,7 +37,7 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 -->
 
 ### <img style="float: middle; width: 5%;" src="/images/sticky.png" alt="" /> Sticky    
-  * **CPU-free Computing**: *Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)*, [https://arxiv.org/abs/2205.08882](https://arxiv.org/abs/2205.08882), 2022, <a href="https://arxiv.org/pdf/2205.08882.pdf" target="_blank" rel="noopener noreferrer" style="background-color:white; color:white;font-weight:bold"><img style="float: middle; width: 3%;" src="/images/pdf.svg" alt="" /></a>.
+  * **CPU-free Computing**: *Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)*, [https://arxiv.org/abs/2205.08882](https://arxiv.org/abs/2205.08882), 2022, <a href="https://arxiv.org/pdf/2205.08882.pdf" target="_blank" rel="noopener noreferrer" style="background-color:white; color:white;font-weight:bold"><img style="float: middle; width: 3%;" src="/images/pdf.svg" alt="" /></a> ([to appear in the HotOS'23](https://sigops.org/s/conferences/hotos/2023/program.html)).
 
   * **Dutch CompSys Research Manifesto**, *Future Computer Systems and Networking Research in the Netherlands: A Manifesto*, [https://arxiv.org/abs/2206.03259](https://arxiv.org/abs/2206.03259), 2022, <a href="https://arxiv.org/pdf/2206.03259" target="_blank" rel="noopener noreferrer" style="background-color:white; color:white;font-weight:bold"><img style="float: middle; width: 3%;" src="/images/pdf.svg" alt="" /></a>.
     * 2-page executive summary ([PDF](https://bit.ly/ManifestoCompSysNLSummary)), Flyer ([PDF](https://bit.ly/CompSysNLFlyerA4))

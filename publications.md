@@ -18,7 +18,7 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
  * **DPFS: DPU-Powered File System Virtualization**, Peter-Jan Gootzen (IBM Research, VU Amsterdam), Jonas Pfefferle (IBM Research Yorktown), Radu Stoica (IBM Research Zurich), and Animesh Trivedi (VU Amsterdam), Proceedings of the *16th ACM International Systems and Storage Conference (SYSTOR’23)*, Haifa, Israel, June, 2023. 
 
- * **DPFS: DPU-Powered File System Virtualization**, Peter-Jan Gootzen (IBM Research, VU Amsterdam), Jonas Pfefferle (IBM Research Yorktown), Radu Stoica (IBM Research Zurich), and Animesh Trivedi (VU Amsterdam), Proceedings of the *16th ACM International Systems and Storage Conference (SYSTOR’23)*, Haifa, Israel, June, 2023. 
+ * **A Trace-driven Performance Evaluation of Hash-based Task Placement Algorithms for Cache-enabled Serverless Computing**, Sacheendra Talluri, Nikolas Herbst, Cristina Abad, Animesh Trivedi, and Alexandru Iosup, in the 20th ACM International Conference on Computing Frontiers (CF'23), May 9th - 11th, Bologna, Italy, 2023.
  
  * **Performance Characterization of Modern Storage Stacks: POSIX I/O, libaio, SPDK, and io_uring**, Zebin Ren and Animesh Trivedi, in the proceedings of the 3rd Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS '23). Association for Computing Machinery, New York, NY, USA, 35–45. [https://doi.org/10.1145/3578353.3589545](https://doi.org/10.1145/3578353.3589545).
 

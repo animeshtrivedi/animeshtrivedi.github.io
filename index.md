@@ -15,6 +15,8 @@ My main research areas are in storage, networking, operating systems, and distri
   * how design and build foundational software services for Edge computing
   * how to design next-generation of systems software for modern, programmable devices
 
+Research activities in **Storage-Networking (StoNet) research group** (May 2023): [**slides**](https://docs.google.com/presentation/d/1RFVHQhQTxTqCJWpKhoUBTXSAZKA7YIrq4hAiU3Xcd3c/edit?usp=sharing)
+
 I am a member of the [IPN EDI (equity, diversity, inclusion) working group](https://ict-research.nl/edi-working-group/).
 
 <!--am investigating how modern, programmable, high-performance devices (100+ Gbps network, NVMe/Flash/Optane storage, etc.) can be leveraged in large-scale data-processing and machine learning systems such as Spark, Tensorflow, serverless workloads. 

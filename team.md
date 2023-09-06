@@ -12,18 +12,29 @@ permalink: /team/
 ## PhD 
   * Krijn Doekemeijer (since 2022, co-supervised with [Bala Chandrasekaran](https://balakrishnanc.github.io/))
   * Zebin Ren (since 2022)
-  * Matthijs Jansen (2020, co-supervised with [Alexandu Iosup](https://atlarge-research.com/aiosup/))
-  * Sacheendra Talluri (since 2019, 50%, co-supervised with [Alexandu Iosup](https://atlarge-research.com/aiosup/))
+  * Matthijs Jansen (since 2020, co-supervised with [Alexandru Iosup](https://atlarge-research.com/aiosup/))
+  * Sacheendra Talluri (since 2019, 50%, co-supervised with [Alexandru Iosup](https://atlarge-research.com/aiosup/))
 
 ## MSc students 
 These are the research project works ([XM_405088](https://studiegids.vu.nl/EN/courses/2022-2023/XM_405088#/) or [XM_0129](https://studiegids.vu.nl/EN/courses/2022-2023/XM_0129) or [XM_0130](https://studiegids.vu.nl/en/Master/2022-2023/computer-science-joint-degree/XM_0130)) that are directly supervised by me. 
 
-
 ### 2023 
+
+  * <span style="color:#AF7817;font-weight:bold">[WiP, survey]</span> Brynjar Ingimarsson, *QoS in Flash SSDs*, 2023.
+
+  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Peter-Jan Gootzen (with IBM Reseach Zurich), *DPFS++: Cloud-Native DPU-Powered File System Virtualization*, 2023.
+
+  * <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Niels de Waal, *FrogFishDB - A Timeseries Database for in-order timeseries using the TimeTree data structure on flash SSDs*, 2023, <a href="https://drive.google.com/file/d/1qTsKCFDGaiKhahbRCRNjDfXGN3_faBjd/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/NielsdeWaal/Thesis" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. 
+  
+  * <span style="color:#AF7817;font-weight:bold">[survey]</span> Antonios Sklavos, *Exploring the Performance-Isolation Trade-off for Isolation Mechanisms*, 2023, with [Matthijs S. Jansen](https://atlarge-research.com/mjansen/), <a href="https://drive.google.com/file/d/1-lXmV9NktaLEKxtRSvyXJ3XjtDfmx0pR/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>.
+
+  * <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Wiebe van Breukelen, *PMicroProfile: A Micro-Architecture Aware Persistent Memory Profiling Framework*, 2023, <a href="https://drive.google.com/file/d/1qTAN-DAV0TwI09kI76RcMk90_iRDW9Qm/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/stonet-research/PMicroProfile" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. 
+
+  * <span style="color:#AF7817;font-weight:bold">[survey]</span> Edgardo J. Reinoso Campos, *Serverless Computing at the Edge in Precise Agriculture*, 2023, with [Matthijs S. Jansen](https://atlarge-research.com/mjansen/), <a href="https://drive.google.com/file/d/1-lXmV9NktaLEKxtRSvyXJ3XjtDfmx0pR/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>.
+
   * <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Nick-Andian Tehrany (MSc thesis, TU Delft, with [Alexandru Iosup](https://atlarge-research.com/aiosup/)), *msF2FS: Design and Implementation of an NVMe ZNS SSD Optimized F2FS File System*, 2023, <a href="https://drive.google.com/file/d/11Y6YF-kbOUHZA6xo-U2A5J9dNmaOZW04/view?usp=share_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/nicktehrany/msF2FS" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. 
-  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Wiebe van Breukelen (with ETH Zurich), *On optimization of persistent memory file systems*.
-  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Niels de Waal, *Design of high performance timeseries databases*.
-  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Peter-Jan Gootzen (with IBM Reseach Zurich), *On file system virtualization using DPUs*.
+  
+  * <span style="color:#1589FF;font-weight:bold">[research-project]</span> Peter-Jan Gootzen, *DPFS: A DPU-powered File System Virtualization Framework* (joint work at IBM Research Lab, Zurich and Yorktown labs with <a href="https://www.linkedin.com/in/jonas-pfefferle-59330681" target="_blank" rel="noopener noreferrer" style="color:red;">Jonas Pefferle</a> and <a href="https://researcher.watson.ibm.com/researcher/view.php?person=zurich-RST" target="_blank" rel="noopener noreferrer" style="color:red;">Radu Stoica</a>), <a href="https://drive.google.com/file/d/16rx9HrejpKWqvYYcjXn077bAZ5r7GPy_/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/IBM/DPFS" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. 
 
 ### 2022
   * <span style="color:#AF7817;font-weight:bold">[survey]</span> Wiebe van Breukelen, *Persistent Memory File Systems: A Survey*, 2022, <a href="https://drive.google.com/file/d/1EF-tTEDwYYoFOzywlC-STLqHYlGmyGDx/view?usp=share_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>.
@@ -64,8 +75,16 @@ These are the research project works ([XM_405088](https://studiegids.vu.nl/EN/co
 ## BSc students 
 
 ### 2023 
-  *  <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Quardell Verbond, *BasicLinkFS & BasicBtreeFS: The design and analysis of a simple and optimized filesystem*, 2023, <a href="https://drive.google.com/file/d/1A8gmV--gifKfZ5cQ42PkiUO_2uxqiApG/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/QuardellV/BasicBTFS" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.
 
+*  <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Daniel Berzak, *Embedded Domain Specific Language: A Streamlined Approach for Framework Abstraction*, 2023, <a href="https://drive.google.com/file/d/1tnDLxTvbEMeHUm0hcUZrqbXPRq0QxURJ/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/atlarge-research/continuum" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.
+
+*  <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Alex  Birnberg, *In-Kernel File Caching with eBPF for Improving File Transfer Throughput Over the Network*, 2023, <a href="https://drive.google.com/file/d/1GQ-WoEb0H49Div_Hzqsgeb3VcnpCkY60/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/birnbergalex/Bachelor-Thesis" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.
+
+  *  <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Julian Restrepo Mejia, *SUNS: a Small-sized User-level Network Stack*, 2023, <a href="https://drive.google.com/file/d/1i76OB-k51yNUi6cXv4oFXStvU-tOp2xh/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/julre99/anp" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.
+
+  *  <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Cristiano Milanese, *Safe Device Drivers: a new character device for loading localities*, 2023, <a href="https://drive.google.com/file/d/1yklW4euw9sqB_JcIzrdPR299MKe0shyW/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/CriMilanese/scull_device_driver" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.
+
+  *  <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Quardell Verbond, *BasicLinkFS & BasicBtreeFS: The design and analysis of a simple and optimized filesystem*, 2023, <a href="https://drive.google.com/file/d/1A8gmV--gifKfZ5cQ42PkiUO_2uxqiApG/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/QuardellV/BasicBTFS" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.
 
 ### 2022 
   *  <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Alessandro Balducci, *Memcached over RDMA*, 2022, <a href="https://drive.google.com/file/d/1cQaaOBMLyXZe8K1TpHnquFgcPqO79I5J/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/aleb2000/memcached" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.

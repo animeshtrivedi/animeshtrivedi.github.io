@@ -14,12 +14,14 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
 ## Publications
 
- * **A Vision and Blueprint for CPU-free Computing**, Animesh Trivedi (VU Amsterdam) and Marco Spaziani Brunella (Hyperable), to appear in the the 19th Workshop on Hot Topics in Operating Systems (HotOS'23), 2023. 
+ * **Performance Characterization of NVMe Flash Devices with Zoned Namespaces (ZNS)**, Krijn Doekemeijer, Nick Tehrany, Balakrishnan Chandrasekaran, Matias Bjørling (Western Digital, Denamrk), Animesh Trivedi (2023), to appear in the [2023 IEEE International Conference on Cluster Computing (CLUSTER)](https://clustercomp.org/2023/program/). [PDF](https://atlarge-research.com/pdfs/2023-cluster-zns-performance-kdoekemeijer.pdf).
+
+ * **A Vision and Blueprint for CPU-free Computing**, Animesh Trivedi (VU Amsterdam) and Marco Spaziani Brunella (Hyperable), In Proceedings of the 19th Workshop on Hot Topics in Operating Systems ([HotOS '23](https://sigops.org/s/conferences/hotos/2023/program.html)). Association for Computing Machinery, New York, NY, USA, 1–14. [https://doi.org/10.1145/3593856.3595906](https://doi.org/10.1145/3593856.3595906).
 
  * **DPFS: DPU-Powered File System Virtualization**, Peter-Jan Gootzen (IBM Research, VU Amsterdam), Jonas Pfefferle (IBM Research Yorktown), Radu Stoica (IBM Research Zurich), and Animesh Trivedi (VU Amsterdam), Proceedings of the *16th ACM International Systems and Storage Conference (SYSTOR’23)*, Haifa, Israel, June, 2023. 
 
- * **A Trace-driven Performance Evaluation of Hash-based Task Placement Algorithms for Cache-enabled Serverless Computing**, Sacheendra Talluri, Nikolas Herbst, Cristina Abad, Animesh Trivedi, and Alexandru Iosup, in the 20th ACM International Conference on Computing Frontiers (CF'23), May 9th - 11th, Bologna, Italy, 2023.
- 
+ * **A Trace-driven Performance Evaluation of Hash-based Task Placement Algorithms for Cache-enabled Serverless Computing**, Sacheendra Talluri, Nikolas Herbst, Cristina Abad, Animesh Trivedi, and Alexandru Iosup, In Proceedings of the 20th ACM International Conference on Computing Frontiers (CF '23). Association for Computing Machinery, May 9th - 11th, Bologna, Italy, 2023, pages 164–175. [https://doi.org/10.1145/3587135.3592195](https://doi.org/10.1145/3587135.3592195).
+  
  * **Performance Characterization of Modern Storage Stacks: POSIX I/O, libaio, SPDK, and io_uring**, Zebin Ren and Animesh Trivedi, in the proceedings of the 3rd Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS '23). Association for Computing Machinery, New York, NY, USA, 35–45. [https://doi.org/10.1145/3578353.3589545](https://doi.org/10.1145/3578353.3589545).
 
   * **The SPEC-RG Reference Architecture for the Compute Continuum**, Matthijs Jansen, Auday Al-Dulaimy, Allesandro Vittorio Papadopoulos, Animesh Trivedi, Alexandru Iosup, The 23rd IEEE/ACM International Symposium on Cluster, Cloud, and Internet Computing, [CCGRID](https://ccgrid2023.iisc.ac.in/), 2023. 
@@ -30,12 +32,11 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
   * **Performance Measurement of Distributed Storage on Edge Devices**, Priyam Loganathan (BITS Pilani, Goa, India), Dhruv Rauthan (BITS Pilani, Goa, India), Animesh Trivedi (VU Amsterdam, The Netherlands), Vinayak Naik (BITS Pilani, Goa, India), at the TASIR Workshop: Testbeds for Advanced Systems Implementation and Research (co-located with the 15th International Conference on COMmunication Systems & NETworkS (COMSNETS 2023)) [link](https://www.comsnets.org/TASIR_workshop.html#accepted_papers), Bengaluru, India, January 2023. [https://ieeexplore.ieee.org/document/10041319](https://ieeexplore.ieee.org/document/10041319). 
 
-  
   * **Efficiently Improving the Performance of Serverless Applications with Microtask-based Scheduling**, Sacheendra Talluri, Sven Lankester, Bogdan Ene, Jesse Donkervliet, Animesh Trivedi, and  Alexandru Iosup (VU Amsterdam), at the 4th International Workshop on Cloud, IoT and Fog Systems (and Security) [CIFS 2022](http://cifs.servicelaboratory.ch/cifs2022), Vancouver, Washington, USA, December, 2022. [https://ieeexplore.ieee.org/document/10061809](https://ieeexplore.ieee.org/document/10061809). 
   
   * **Healthor: Heterogeneity-aware Flow Control in DLTs to Increase Performance and Decentralization**, Jonas Theis (VU Amsterdam/IOTA Foundation), Luigi Vigneri (IOTA Foundation), Lin Wang, and Animesh Trivedi (VU Amsterdam), Proceedings of the *ACM Journal on Distributed Ledger Technologies*, Just Accepted, July 2022, [https://dl.acm.org/doi/10.1145/3555676](https://dl.acm.org/doi/10.1145/3555676).
 
-  * **Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring**, Diego Didona, Jonas Pfefferle, Nikolas Ioannou, Bernard Metzler (IBM Research Zurich); Animesh Trivedi (VU Amsterdam), Proceedings of the *15th ACM International Systems and Storage Conference (SYSTOR’22)*, Haifa, Israel, June, 2022. [https://dl.acm.org/doi/10.1145/3534056.3534945](https://dl.acm.org/doi/10.1145/3534056.3534945).  
+  * **Understanding Modern Storage APIs: A systematic study of libaio, SPDK, and io_uring**, Diego Didona, Jonas Pfefferle, Nikolas Ioannou, Bernard Metzler (IBM Research Zurich); Animesh Trivedi (VU Amsterdam), Proceedings of the *15th ACM International Systems and Storage Conference (SYSTOR’22)*, Haifa, Israel, June, 2022. [https://dl.acm.org/doi/10.1145/3534056.3534945](https://dl.acm.org/doi/10.1145/3534056.3534945). 
 
   * **Hyperion: A Unified, Zero-CPU Data-Processing Unit**, Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, at the *11th Workshop on Systems for Post-Moore Architectures (SPMA'22) workshop*, [https://sites.google.com/view/spma22eurosys/home](https://sites.google.com/view/spma22eurosys/home), Rennes, France, 2022. [[PDF]](https://drive.google.com/file/d/1-AE37IIijaCFG1UupTUXWl5yZbxjEv9n/view?usp=sharing)
 
@@ -90,6 +91,11 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 <hr>
 ## Technical reports, articles
 
+
+  * **Understanding (Un)Written Contracts of NVMe ZNS Devices with zns-tools** Nick Tehrany, Krijn Doekemeijer and Animesh Trivedi, [https://arxiv.org/abs/2307.11860](https://arxiv.org/abs/2307.11860), (2023). [PDF](https://arxiv.org/pdf/2307.11860.pdf)
+
+  * **A Survey on the Integration of NAND Flash Storage in the Design of File Systems and the Host Storage Software Stack** Nick Tehrany, Krijn Doekemeijer, and Animesh Trivedi, [https://arxiv.org/abs/2307.11866](https://arxiv.org/abs/2307.11866), (2023). [[PDF]](https://arxiv.org/pdf/2307.11866.pdf)
+
   * **Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices** Nick Tehrany and Animesh Trivedi, [https://arxiv.org/abs/2206.01547](https://arxiv.org/abs/2206.01547), (2022). [[PDF]](https://arxiv.org/pdf/2206.01547)
   
   * **Hyperion: A Case for Unified, Self-Hosting, Zero-CPU Data-Processing Units (DPUs)** Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, [https://arxiv.org/abs/2205.08882](https://arxiv.org/abs/2205.08882), (2022). [[PDF]](https://arxiv.org/pdf/2205.08882)
@@ -132,7 +138,6 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
   * **DPFS: DPU-powered File System Virtualization**, Peter-Jan Gootzen, Jonas Pfefferle, Radu Stoica, and Animesh Trivedi, talk at the *19th annual OpenFabrics Alliance (OFA) Workshop*, [https://www.openfabrics.org/2023-ofa-virtual-workshop-agenda/](https://www.openfabrics.org/2023-ofa-virtual-workshop-agenda/), 2023. 
   
-
   * **OpenCSD, simple and intuitive computational storage emulation with QEMU and eBPF. After all, why not turn your computer into a distributed system?**,  Corne Lukken, and Animesh Trivedi, talk at the *2023 FOSDEM*, [https://fosdem.org/2023/schedule/event/csd/](https://fosdem.org/2023/schedule/event/csd/), Amsterdam, 2022. 
 
   * **OpenCSD: Unified Architecture for eBPF-powered Computational Storage Devices (CSD) with Filesystem Support**, Corne Lukken, and Animesh Trivedi, talk at the *2022 ICT.OPEN conference*, [https://www.ictopen.nl/](https://www.ictopen.nl/), Amsterdam, 2022. 

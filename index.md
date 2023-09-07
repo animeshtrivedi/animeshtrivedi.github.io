@@ -6,7 +6,7 @@ layout: default
 style="float:right;width:25%;max-width:150px;margin-left:15px;"/></a>
 {% endraw %}
 
-I am a tenured Assistant Professor (tenure-tracked) in the [Computer Systems (CompSys) Section](https://www.vucompsys.net/) in the [Department of Computer Science, VU, Amsterdam](https://www.cs.vu.nl/en/index.aspx). I lead the [StoNet (storage-networking) research group](https://stonet-research.github.io/). We are a part of the [Massiving Computer Systems group](https://atlarge-research.com/) which is lead by Prof. Alexandru Iosup. 
+I am a tenured Assistant Professor (tenure-tracked) in the [Computer Systems (CompSys) Section](https://www.vucompsys.net/) in the [Department of Computer Science, VU, Amsterdam](https://www.cs.vu.nl/en/index.aspx). I lead the [StoNet (Storage-Networking) research group](https://stonet-research.github.io/). We are a part of the [Massiving Computer Systems group](https://atlarge-research.com/), which is lead by [Prof. Alexandru Iosup](https://atlarge-research.com/aiosup/). 
 
 My main research areas are in storage, networking, operating systems, and distributed systems. Broadly speaking, I am interested in the performance aspect of systems, spanning from multi-core CPUs to distributed systems. Currently, I have following active interests: 
   * how to leverage fast and cheap NVMe storage (flash, optane) in data-heavy workloads

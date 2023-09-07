@@ -7,6 +7,8 @@ permalink: /service/
 ---
    
 ### Program Committee
+  * 2024, Track co-chair (Storage), IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+  * 2024, ACM European Conference on Computer Systems (EuroSys) 
   * 2023, USENIX Annual Technical Conference (ATC)
   * 2023, ACM International Systems and Storage Conference (Systor)
   * 2023, ACM/IFIP/USENIX Middleware 
@@ -32,6 +34,7 @@ permalink: /service/
   * IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
 ### Activities 
+  * (2022) Served on the [Dutch Research Council (NWO) Veni (Science)](https://www.nwo.nl/en/calls/nwo-talent-programme) selection committee 
   * (2021 - current) Member of the Dutch Advanced School for Computing and Imaging ([ASCI](https://asci.tudelft.nl/)) Research Committee
   * (2020 - current) Member of the IPN EDI (equity, diversity, inclusion) working group, [https://ict-research.nl/edi-working-group/](https://ict-research.nl/edi-working-group/)
   * (2020 - current) Chair of the Steering Committee, [the Amsterdam Data Science Thesis Awards](https://amsterdamdatascience.nl/events/thesis-awards/)

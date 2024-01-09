@@ -18,11 +18,23 @@ permalink: /team/
 ## MSc students 
 These are the research project works ([XM_405088](https://studiegids.vu.nl/EN/courses/2022-2023/XM_405088#/) or [XM_0129](https://studiegids.vu.nl/EN/courses/2022-2023/XM_0129) or [XM_0130](https://studiegids.vu.nl/en/Master/2022-2023/computer-science-joint-degree/XM_0130)) that are directly supervised by me. 
 
+### 2024 
+
+  * <span style="color:#AF7817;font-weight:bold">[survey, WiP]</span> Sudarsan Sivakumar, *Distributed Disaggregated Storage*, 2024.
+
+  * <span style="color:#AF7817;font-weight:bold">[survey, WiP]</span> Konstantinos Mitropoulos, *Domain and Workload-specific Storage*, 2024. 
+
+  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Brynjar Ingimarsson, *QoS in io_uring*, 2024. 
+  
 ### 2023 
 
-  * <span style="color:#AF7817;font-weight:bold">[WiP, survey]</span> Brynjar Ingimarsson, *QoS in Flash SSDs*, 2023.
-
-  * <span style="color:#2E8B57;font-weight:bold">[WiP, thesis]</span> Peter-Jan Gootzen (with IBM Reseach Zurich), *DPFS++: Cloud-Native DPU-Powered File System Virtualization*, 2023.
+  * <span style="color:#AF7817;font-weight:bold">[survey]</span> Brynjar Ingimarsson, *Fairness, Isolation, Predictability and Performance Management in NVMe Devices: A Survey*, 2023, <a href="  https://drive.google.com/file/d/1KGkYkDx5i9gNpsXEg-VhOYT0LelBJzSL/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>.
+  
+  * <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Edgardo J. Reinoso Campos, *Edgeless: Design and Implementation of Serverless Computing at the Edge for Performance in Precision Agriculture*, 2023, <a href="https://drive.google.com/file/d/1SOqhOkJricJv4wO8ZvC363ZMYoAtb8jW/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/edreinoso/Edgeless" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. 
+  
+  * <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Antonios Sklavos, *Exploring the Performance of Kubernetes-Deployed Containers*, 2023, <a href="https://drive.google.com/file/d/1CltQIsKjkf2oRdzcVWDVVVOHiICEYtuh/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/anskl/continuum" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. 
+  
+  * <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Peter-Jan Gootzen (joint work at IBM Research Lab, Zurich and Yorktown labs with <a href="https://www.linkedin.com/in/jonas-pfefferle-59330681" target="_blank" rel="noopener noreferrer" style="color:red;">Jonas Pefferle</a> and <a href="https://researcher.watson.ibm.com/researcher/view.php?person=zurich-RST" target="_blank" rel="noopener noreferrer" style="color:red;">Radu Stoica</a>), *DPFS++: Cloudifying the DPU-Powered File System Virtualization Framework*, 2023,  <a href="https://drive.google.com/file/d/1mTXL_x0Xe7iCSS4OYeZlIu4YXkmmQRxT/view?usp=sharing" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/IBM/DPFS" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.
 
   * <span style="color:#2E8B57;font-weight:bold">[thesis]</span> Niels de Waal, *FrogFishDB - A Timeseries Database for in-order timeseries using the TimeTree data structure on flash SSDs*, 2023, <a href="https://drive.google.com/file/d/1qTsKCFDGaiKhahbRCRNjDfXGN3_faBjd/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/NielsdeWaal/Thesis" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. 
   

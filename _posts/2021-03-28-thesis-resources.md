@@ -29,7 +29,7 @@ Lastly, take pride in your work, strive for excellence, and put out the best wor
    * How to use VU DAS system - [README](/das-readme).
    * What should be in your thesis, my [https://github.com/animeshtrivedi/vu-thesis-advice](https://github.com/animeshtrivedi/vu-thesis-advice). 
    * Use Git, [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/). 
-   * All past thesis and source code: [https://animeshtrivedi.github.io/team/])(https://animeshtrivedi.github.io/team/)
+   * All past thesis and source code: [https://animeshtrivedi.github.io/team/](https://animeshtrivedi.github.io/team/)
 
 ### Important readings 
 

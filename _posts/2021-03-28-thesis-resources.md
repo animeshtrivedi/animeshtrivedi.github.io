@@ -28,13 +28,8 @@ Lastly, take pride in your work, strive for excellence, and put out the best wor
 ### Resources 
    * How to use VU DAS system - [README](/das-readme).
    * What should be in your thesis, my [https://github.com/animeshtrivedi/vu-thesis-advice](https://github.com/animeshtrivedi/vu-thesis-advice). 
-   * Git tutorial by Lin Wang, see Tutorial 2 (Tutorial 2: version control and git), at [https://linwang.info/courses/introcs20/](https://linwang.info/courses/introcs20/). 
-   * Example theses (*if you want to see any other examples, feel free to drop me an email*) 
-      * Nick-Andian Tehrany (BSc) [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2021/2020-Nick_Tehrany_VU_BSc_Thesis.pdf)
-      * De Vos Meeker (BSc) [[PDF]](https://github.com/animeshtrivedi/animeshtrivedi.github.io/raw/master/files/2021/2020-De_Vos_Meaker__Kafka_BSc_Bachelor_Project.pdf)
-<!--      * Giulia Frascaria (MSc) [PDF]() -->
-<!--      * Jonas Theis (MSc) [PDF]() -->
-
+   * Use Git, [https://rogerdudler.github.io/git-guide/](https://rogerdudler.github.io/git-guide/). 
+   * All pst thesis and source code: [https://animeshtrivedi.github.io/team/])(https://animeshtrivedi.github.io/team/)
 
 ### Important readings 
 

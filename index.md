@@ -74,7 +74,7 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 Animesh Trivedi is a tenure-track Assistant Professor in the department of Computer Science at VU Amsterdam. Prior to joining the department in 2019, he has worked as a Research Staff Member at the IBM Research Lab in Zurich. His research interests lie in building fast and efficient distributed systems around modern high-performance, programmable I/O devices. He is currently investigating how to leverage emerging Non-Volatile Memories (NVMs) to support data access demands of machine learning workloads. He is one of the founding members of the Apache Crail (Incubating) project. He holds a PhD and master from ETH Zurich. More about his work can be found at [https://animeshtrivedi.github.io](https://animeshtrivedi.github.io).-->
 
 ### Contact
-  * *Email:* a.trivedi AT vu DOT nl 
+  * *Email:* FIRSTNAME DOT LASTNAME AT GMAIL 
   * *Phone:* +31 20 598 22 19 
   * *Office:* 11A-33, NU building VU, De Boelelaan 1111, 1081 HV Amsterdam
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).

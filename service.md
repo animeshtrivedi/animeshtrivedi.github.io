@@ -7,7 +7,10 @@ permalink: /service/
 ---
    
 ### Program Committee
+  * 2025, ACM/SPEC International Conference on Performance Engineering (ICPE)
+  * 2024, USENIX Annual Technical Conference (ATC)
   * 2024, Track co-chair (Storage), IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
+  * 2024, Supercomputing Tutorials Committee Member
   * 2024, ACM European Conference on Computer Systems (EuroSys) 
   * 2023, USENIX Annual Technical Conference (ATC)
   * 2023, ACM International Systems and Storage Conference (Systor)
@@ -28,16 +31,15 @@ permalink: /service/
   * 2019, ACM/IEEE International Symposium on Cluster, Cloud and Grid Computing (CCGrid)
   * 2020, ACM/SPEC International Conference on Performance Engineering (ICPE) (Research Papers track)
   * 2019, 3rd National Dutch Computer Systems Conference (CompSys)
-
-### Journal Review 
   * ACM Transaction on Storage (ToS)
   * IEEE Transactions on Parallel and Distributed Systems (TPDS)
 
 ### Activities 
+  * (2023) Served on the [Dutch Research Council (NWO) Veni (Science)](https://www.nwo.nl/en/calls/nwo-talent-programme) selection committee 
   * (2022) Served on the [Dutch Research Council (NWO) Veni (Science)](https://www.nwo.nl/en/calls/nwo-talent-programme) selection committee 
-  * (2021 - current) Member of the Dutch Advanced School for Computing and Imaging ([ASCI](https://asci.tudelft.nl/)) Research Committee
-  * (2020 - current) Member of the IPN EDI (equity, diversity, inclusion) working group, [https://ict-research.nl/edi-working-group/](https://ict-research.nl/edi-working-group/)
-  * (2020 - current) Chair of the Steering Committee, [the Amsterdam Data Science Thesis Awards](https://amsterdamdatascience.nl/events/thesis-awards/)
+  * (2021 - 2024) Member of the Dutch Advanced School for Computing and Imaging ([ASCI](https://asci.tudelft.nl/)) Research Committee
+  * (2020 - 2024) Member of the IPN EDI (equity, diversity, inclusion) working group, [https://ict-research.nl/edi-working-group/](https://ict-research.nl/edi-working-group/)
+  * (2020 - 2024) Chair of the Steering Committee, [the Amsterdam AI Thesis Awards](https://amsterdamai.com/en/)
   * (2020 - 2022) Department diversity officer, VU Amsterdam 
   * 2021, Award Selection Committee member for the NWO Science Athena Award [https://www.nwo.nl/en/
 athena-award](https://www.nwo.nl/en/athena-award).

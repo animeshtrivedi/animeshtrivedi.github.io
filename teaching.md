@@ -6,10 +6,10 @@ permalink: /teaching/
 
 ---
 ## Courses 
-I am teaching following courses: 
-  * Storage Systems (M.Sc) - [course webpage](/course-stosys)
-  * Advanced Network Programming (B.Sc, with [Lin Wang](https://linwang.info/)): - [course webpage](/course-anp) 
-  * Advanced Topics in Distributed Systems (M.Sc): Feb-Mar'22 (running since 2019) 
+I have taught following courses: 
+  * Storage Systems (M.Sc, 2020-2023) - started and establish by me from scratch, [course webpage](/course-stosys)
+  * Advanced Network Programming (B.Sc, 2020- 2023) - started and established with [Lin Wang](https://linwang.info/)), later with Matthijs Jansen, Jesse Donkervliet, and Bala Chandrasekaran   - [course webpage](/course-anp) 
+  * Systems Seminar (previously Advanced Topics in Distributed Systems) (M.Sc, 2019 - 2024)
     * Paper reading seminar
     * Artifact evaluation
 

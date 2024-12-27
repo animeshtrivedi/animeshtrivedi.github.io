@@ -1,8 +1,6 @@
 ### Who am I?
 
-I am an Assistant Professor (tenure-track) at the Department of Computer Science, VU, Amsterdam.
-
-Prior to joining VU, I was a Research Staff Member (RSM) in Cloud and Computing Infrastructure group at the IBM Research Lab, Zurich, Switzerland. Even before that, I obtained my PhD and MSc in Computer Science at ETH Zurich.
+I am a Senior Research Scientist at IBM Research Lab, Zurich in the Hybrid Cloud Research Group. Prior to joining the research lab, I was a tenured Assistant Professor (tenure-tracked) in the Computer Systems (CompSys) Section in the Department of Computer Science, VU, Amsterdam. I have obtained my PhD and MSc in Computer Science at ETH Zurich.
 
 ### What am I interested in?
 

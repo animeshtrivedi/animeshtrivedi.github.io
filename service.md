@@ -7,6 +7,8 @@ permalink: /service/
 ---
    
 ### Program Committee
+  * 2025, ACM/IFIP/USENIX Middleware 
+  * 2025, Supercomputing Tutorials Committee Member  
   * 2025, ACM/SPEC International Conference on Performance Engineering (ICPE)
   * 2024, USENIX Annual Technical Conference (ATC)
   * 2024, Track co-chair (Storage), IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)

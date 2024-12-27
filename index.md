@@ -13,9 +13,7 @@ the [Massiving Computer Systems group](https://atlarge-research.com/) lead by [P
 
 I am a systems researcher. I like to design, implement, evaluate systems. My main research areas are in storage, networking, operating systems, and distributed systems. 
 Broadly speaking, I am interested in the performance aspect of systems, spanning from multi-core CPUs to distributed systems. 
-Currently, I have following active interests: 
-  * how to leverage fast NVMe storage (flash, optane) in data-heavy workloads like AI/ML and analytics
-  * how to design next-generation of systems software for modern, programmable devices and hardware platforms 
+Currently, I am investigating how to leverage fast NVMe storage in data-heavy workloads like AI/ML and analytics
 
 <!-- <img style="float: middle; width: 4%;" src="/images/stonet.png" alt="" /> **Storage-Networking (StoNet) research group** 
   * weblink: [https://stonet-research.github.io/](https://stonet-research.github.io/)
@@ -84,8 +82,8 @@ More about his work can be found at [https://animeshtrivedi.github.io](https://a
 
 ### Contact
   * *Email:* FIRSTNAME DOT LASTNAME AT IBM DOT COM  
-  <!-- * *Phone:* +31 20 598 22 19 --> 
+  * *Phone:* +41 44 724 85 27  
   * *Office:* K206, IBM Research GmbH, Säumerstrasse 4, CH–8803 Rüschlikon, Switzerland
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
-Last updated: 03-Jul-2024 
+Last updated: 27-Dec-2024

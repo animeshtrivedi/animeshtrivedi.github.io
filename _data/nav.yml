@@ -1,19 +1,19 @@
 # rendered from bottom to the top 
-- name: "Blog"
-  link: "/blog"
-
-- name: "Service"
-  link: "/service"
-
 - name: "Team"
   link: "/team"
-
-- name: "Publications"
-  link: "/publications"
 
 - name: "Teaching"
   link: "/teaching"
 
-- name: "Research"
-  link: "/research"
+- name: "Service"
+  link: "/service"
+
+- name: "Publications"
+  link: "/publications"
+
+- name: "Blog"
+  link: "/blog"
+
+#- name: "Research"
+  #link: "/research"
 

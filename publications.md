@@ -14,6 +14,25 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
 ## Publications
 
+  * Daniele De Sensi, Lorenzo Pichetti, Flavio Vella, Tiziano De Matteis, Zebin Ren, Luigi Fusco, Matteo Turisini, Daniele Cesarini, Kurt Lust, Animesh Trivedi, Duncan Roweth, Filippo Spiga, Salvatore Di Girolamo, and Torsten Hoefler. 2024. **Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects**. In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC '24). IEEE Press, Article 33, 1–15. [https://doi.org/10.1109/SC41406.2024.00039](https://doi.org/10.1109/SC41406.2024.00039)
+  
+  * Krijn Doekemeijer, Dennis Maisenbacher, Zebin Ren, Nick Tehrany, Matias Bjørling, and Animesh Trivedi. 2024. **Exploring I/O Management Performance in ZNS with ConfZNS++**. In Proceedings of the 17th ACM International Systems and Storage Conference (SYSTOR '24). Association for Computing Machinery, New York, NY, USA, 162–177. [https://doi.org/10.1145/3688351.3689160](https://doi.org/10.1145/3688351.3689160). 
+  
+  * Krijn Doekemeijer, Zebin Ren, Nick Tehrany, and Animesh Trivedi. 2024. **ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends**. SIGOPS Oper. Syst. Rev. 58, 1 (June 2024), 53–60. [https://doi.org/10.1145/3689051.3689060](https://doi.org/10.1145/3689051.3689060). 
+
+  * Nick Tehrany, Krijn Doekemeijer, and Animesh Trivedi. 2024. **Zns-tools: An eBPF-powered, Cross-Layer Storage Profiling Tool for NVMe ZNS SSDs**. In Proceedings of the 4th Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS '24). Association for Computing Machinery, New York, NY, USA, 23–32. [https://doi.org/10.1145/3642963.3652205](https://doi.org/10.1145/3642963.3652205).
+
+  * Krijn Doekemeijer, Zebin Ren, Nick Tehrany, and Animesh Trivedi. 2024. **ZWAL: Rethinking Write-ahead Logs for ZNS SSDs with Zone Appends**. In Proceedings of the 4th Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS '24). Association for Computing Machinery, New York, NY, USA, 9–16. [https://doi.org/10.1145/3642963.3652203](https://doi.org/10.1145/3642963.3652203).
+
+  * Zebin Ren, Krijn Doekemeijer, Nick Tehrany, and Animesh Trivedi. 2024. **BFQ, Multiqueue-Deadline, or Kyber? Performance Characterization of Linux Storage Schedulers in the NVMe Era**. In Proceedings of the 15th ACM/SPEC International Conference on Performance Engineering (ICPE '24). Association for Computing Machinery, New York, NY, USA, 154–165. [https://doi.org/10.1145/3629526.3645053](https://doi.org/10.1145/3629526.3645053). <img style="float: middle; width: 3%;" src="/images/trophy.png" alt="" /> (Best paper award). 
+
+  * Zebin Ren, Krijn Doekemeijer, and Animesh Trivedi. 2024. **A Systematic Configuration Space Exploration of the Linux Kyber I/O Scheduler**. In Companion of the 15th ACM/SPEC International Conference on Performance Engineering (ICPE '24 Companion). Association for Computing Machinery, New York, NY, USA, 167–173. [https://doi.org/10.1145/3629527.3651416](https://doi.org/10.1145/3629527.3651416).
+
+  * Animesh Trivedi, Matthijs Jansen, Krijn Doekemeijer, Sacheendra Talluri, Nick Tehrany: **Reviving Storage Systems Education in the 21st Century - An experience report**. CCGrid 2024: 616-625, [https://ieeexplore.ieee.org/document/10701387](https://ieeexplore.ieee.org/document/10701387). <img style="float: middle; width: 3%;" src="/images/trophy.png" alt="" /> (Best paper nomination).
+
+  * Auday Al-Dulaimy, Matthijs Jansen, Bjarne Johansson, Animesh Trivedi, Alexandru Iosup, Mohammad Ashjaei, Antonino Galletta, Dragi Kimovski, Radu Prodan, Konstantinos Tserpes, George Kousiouris, Chris Giannakos, Ivona Brandic, Nawfal Ali, André B. Bondi, Alessandro V. Papadopoulos: **The computing continuum: From IoT to the cloud. Internet Things**, 27: 101272 (2024), [https://www.sciencedirect.com/science/article/pii/S2542660524002130](https://www.sciencedirect.com/science/article/pii/S2542660524002130). 
+
+
  * **Performance Characterization of NVMe Flash Devices with Zoned Namespaces (ZNS)**, Krijn Doekemeijer, Nick Tehrany, Balakrishnan Chandrasekaran, Matias Bjørling (Western Digital, Denamrk), Animesh Trivedi (2023), to appear in the [2023 IEEE International Conference on Cluster Computing (CLUSTER)](https://clustercomp.org/2023/program/). [PDF](https://atlarge-research.com/pdfs/2023-cluster-zns-performance-kdoekemeijer.pdf).
 
  * **A Vision and Blueprint for CPU-free Computing**, Animesh Trivedi (VU Amsterdam) and Marco Spaziani Brunella (Hyperable), In Proceedings of the 19th Workshop on Hot Topics in Operating Systems ([HotOS '23](https://sigops.org/s/conferences/hotos/2023/program.html)). Association for Computing Machinery, New York, NY, USA, 1–14. [https://doi.org/10.1145/3593856.3595906](https://doi.org/10.1145/3593856.3595906).
@@ -40,7 +59,7 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
   * **Hyperion: A Unified, Zero-CPU Data-Processing Unit**, Marco Spaziani Brunella, Marco Bonola, Animesh Trivedi, at the *11th Workshop on Systems for Post-Moore Architectures (SPMA'22) workshop*, [https://sites.google.com/view/spma22eurosys/home](https://sites.google.com/view/spma22eurosys/home), Rennes, France, 2022. [[PDF]](https://drive.google.com/file/d/1-AE37IIijaCFG1UupTUXWl5yZbxjEv9n/view?usp=sharing)
 
-  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021) (<b><i>Won the best artifact award</i></b>). 
+  * **Empirical Characterization of User Reports about Cloud Failures**, Sacheendra Talluri, Leon Overweel, Laurens Versluis, Animesh Trivedi, Alexandru Iosup, Proceedings of the *2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021* (2021). <img style="float: middle; width: 3%;" src="/images/trophy.png" alt="" />  (Best artifact award). 
   
   * **GradeML: Towards Holistic Performance Analysis for Machine Learning Workflows**, Tim Hegeman, Matthijs Jansen, Alexandru Iosup and Animesh Trivedi (VU Amsterdam), Proceedings of the *4th Workshop on Hot Topics in Cloud Computing Performance* (HotCloudPerf 2021), Rennes, France, April 2021. 
 
@@ -66,7 +85,7 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
   * **Albis: High-Performance File Format for Big Data Systems**, Animesh Trivedi, Patrick Stuedi, Jonas Pfefferle, Adrian Schuepbach, Bernard Metzler, Proceedings of the *2018 USENIX Annual Technical Conference (USENIX ATC 18)*, Boston, MA, USA, July 2018. 
 
-  * **FlashNet: Flash/Network Stack Co-Design**, Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017. (<b><i>Best paper award</i></b>)
+  * **FlashNet: Flash/Network Stack Co-Design**, Animesh Trivedi, Nikolas Ioannou, Bernard Metzler, Patrick Stuedi, Jonas Pfefferle, Ioannis Koltsidas, Kornilios Kourtis, Thomas R. Gross. Proceedings of the *10th ACM International Systems and Storage Conference (SYSTOR’17)*, Haifa, Israel, May, 2017. <img style="float: middle; width: 3%;" src="/images/trophy.png" alt="" /> (Best paper award). 
 
   * **Crail: A High-Performance I/O Architecture for Distributed Data Processing**, Patrick Stuedi, Animesh Trivedi, Jonas Pfefferle, Radu Stoica, Bernard Metzler, Nikolas Ioannou, Ioannis Koltsidas. In *the IEEE Bulletin of the Technical Committee on Data Engineering*, Special Issue on Distributed Data Management with RDMA, Volume 40, pages 40-52, March, 2017.
 

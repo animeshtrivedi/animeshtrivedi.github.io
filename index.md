@@ -83,7 +83,7 @@ More about his work can be found at [https://animeshtrivedi.github.io](https://a
 ### Contact
   * *Email:* FIRSTNAME DOT LASTNAME AT IBM DOT COM  
   * *Phone:* +41 44 724 85 27  
-  * *Office:* K206, IBM Research GmbH, Säumerstrasse 4, CH–8803 Rüschlikon, Switzerland
+  * *Office:* K238, IBM Research GmbH, Säumerstrasse 4, CH–8803 Rüschlikon, Switzerland
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
 Last updated: 27-Dec-2024

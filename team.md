@@ -97,6 +97,10 @@ These are the research project works ([XM_405088](https://studiegids.vu.nl/EN/co
   * <span style="color:#2E8B57;font-weight:bold">[MSc, thesis]</span> Clemens Lutz (at ETH Zurich), *Carafe: High-Performance, In-Memory Graph Processing with RDMA*, 2014.
 
 ## BSc students 
+### 2025 
+  *  <span style="color:#2E8B57;font-weight:bold">[Bsc thesis]</span> Radu Nicolae, *Kavier: Exploring Performance, Sustainability, and Efficiency of LLM Ecosystems
+under Inference through Cache-Aware Discrete-Event Simulation*, 2025, <a href="https://drive.google.com/file/d/1B5pg4s48ApEqSq9h2bVSJGKsGV27GwBN/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/atlarge-research/On-Simulating-LLM-Ecosystems-under-Inference" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>. (Note: I was the daily supervisor, while Prof. Alexandru Iosup and Jesse Donkervliet were the readers).  
+ 
 ### 2024
   *  <span style="color:#2E8B57;font-weight:bold">[Bsc thesis]</span> Darko Vujica, *Exploring Redis Persistence Modes: Introducing AOFUring, an io_uring AOF Extension*, 2024, <a href="https://drive.google.com/file/d/1HwF2lryQdtbiOViT_sVOKn-P9D1Jhyw0/view?usp=drive_link" target="_blank" rel="noopener noreferrer" style="color:red;">[PDF]</a>, <a href="https://github.com/daraccrafter/Thesis-Redis-IO_Uring" target="_blank" rel="noopener noreferrer" style="color:red;">[code]</a>.
 

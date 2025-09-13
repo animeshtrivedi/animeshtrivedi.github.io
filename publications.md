@@ -13,7 +13,12 @@ Please see the [Team page](/team) for Bsc. and MSc. theses, surveys, and short p
 All papers PDFs are available at [here](https://github.com/animeshtrivedi/animeshtrivedi.github.io/tree/master/files/papers) for timely dissemination of scientific information. Please respect the paper-specific copyright. 
 
 ## Publications
+  * Krijn Doekemeijer, Zebin Ren, Tiziano De Matteis, Balakrishnan Chandrasekaran (Vrije Universiteit Amsterdam); Animesh Trivedi (IBM Research Europe, Zurich), **Does Linux Provide Performance Isolation for NVMe SSDs? Configuring cgroups for I/O Control in the NVMe Era**, To appear in 2025 IEEE International Symposium on Workload Characterization, [https://iiswc.org/iiswc2025/](https://iiswc.org/iiswc2025/).
 
+  * Zebin Ren (Vrije Universiteit Amsterdam); Krijn Doekemeijer (Vrije Universiteit Amsterdam, The Netherlands); Padma Apparao (Intel Corporation); Animesh Trivedi (IBM Research Europe, Zurich), **Storage-Based Approximate Nearest Neighbor Search: What are the Performance, Cost, and I/O Characteristics?**, To appear in 2025 IEEE International Symposium on Workload Characterization, [https://iiswc.org/iiswc2025/](https://iiswc.org/iiswc2025/). 
+
+  * Matthijs Jansen, Sacheendra Talluri, Krijn Doekemeijer, Nick Tehrany, Alexandru Iosup, and Animesh Trivedi. 2025. Columbo: A Reasoning Framework for Kubernetes' Configuration Space. In Proceedings of the 16th ACM/SPEC International Conference on Performance Engineering (ICPE '25). Association for Computing Machinery, New York, NY, USA, 45–57. https://doi.org/10.1145/3676151.3719374. [https://dl.acm.org/doi/10.1145/3676151.3719374](https://dl.acm.org/doi/10.1145/3676151.3719374). 
+  
   * Daniele De Sensi, Lorenzo Pichetti, Flavio Vella, Tiziano De Matteis, Zebin Ren, Luigi Fusco, Matteo Turisini, Daniele Cesarini, Kurt Lust, Animesh Trivedi, Duncan Roweth, Filippo Spiga, Salvatore Di Girolamo, and Torsten Hoefler. 2024. **Exploring GPU-to-GPU Communication: Insights into Supercomputer Interconnects**. In Proceedings of the International Conference for High Performance Computing, Networking, Storage, and Analysis (SC '24). IEEE Press, Article 33, 1–15. [https://doi.org/10.1109/SC41406.2024.00039](https://doi.org/10.1109/SC41406.2024.00039)
   
   * Krijn Doekemeijer, Dennis Maisenbacher, Zebin Ren, Nick Tehrany, Matias Bjørling, and Animesh Trivedi. 2024. **Exploring I/O Management Performance in ZNS with ConfZNS++**. In Proceedings of the 17th ACM International Systems and Storage Conference (SYSTOR '24). Association for Computing Machinery, New York, NY, USA, 162–177. [https://doi.org/10.1145/3688351.3689160](https://doi.org/10.1145/3688351.3689160). 
@@ -109,11 +114,13 @@ All papers PDFs are available at [here](https://github.com/animeshtrivedi/animes
 
 <hr>
 ## Technical reports, articles
-
+  * **Persistent Memory File Systems: A Survey**, Wiebe van Breukelen, Animesh Trivedi, [https://arxiv.org/abs/2310.02880](https://arxiv.org/abs/2310.02880), (2023). [PDF](https://arxiv.org/pdf/2310.02880) 
 
   * **Understanding (Un)Written Contracts of NVMe ZNS Devices with zns-tools** Nick Tehrany, Krijn Doekemeijer and Animesh Trivedi, [https://arxiv.org/abs/2307.11860](https://arxiv.org/abs/2307.11860), (2023). [PDF](https://arxiv.org/pdf/2307.11860.pdf)
 
   * **A Survey on the Integration of NAND Flash Storage in the Design of File Systems and the Host Storage Software Stack** Nick Tehrany, Krijn Doekemeijer, and Animesh Trivedi, [https://arxiv.org/abs/2307.11866](https://arxiv.org/abs/2307.11866), (2023). [[PDF]](https://arxiv.org/pdf/2307.11866.pdf)
+
+  *  **Future Computer Systems and Networking Research in the Netherlands: A Manifesto**, Alexandru Iosup, Fernando Kuipers, Ana Lucia Varbanescu, Paola Grosso, Animesh Trivedi, Jan S. Rellermeyer, Lin Wang, Alexandru Uta, Francesco Regazzoni, [https://arxiv.org/abs/2206.03259](https://arxiv.org/abs/2206.03259), (2023). [[PDF]](https://arxiv.org/pdf/2206.03259)
 
   * **Understanding NVMe Zoned Namespace (ZNS) Flash SSD Storage Devices** Nick Tehrany and Animesh Trivedi, [https://arxiv.org/abs/2206.01547](https://arxiv.org/abs/2206.01547), (2022). [[PDF]](https://arxiv.org/pdf/2206.01547)
   

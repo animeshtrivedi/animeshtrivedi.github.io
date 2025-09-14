@@ -7,13 +7,16 @@ permalink: /service/
 ---
    
 ### Program Committee
+  * 2025, ACM International Systems and Storage Conference (Systor) 
   * 2025, ACM/IFIP/USENIX Middleware 
   * 2025, Supercomputing Tutorials Committee Member  
   * 2025, ACM/SPEC International Conference on Performance Engineering (ICPE)
+  * 2025, 5th Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS)
   * 2024, USENIX Annual Technical Conference (ATC)
   * 2024, Track co-chair (Storage), IEEE International Symposium on Cluster, Cloud and Internet Computing (CCGrid)
   * 2024, Supercomputing Tutorials Committee Member
   * 2024, ACM European Conference on Computer Systems (EuroSys) 
+  * 2024, 4th Workshop on Challenges and Opportunities of Efficient and Performant Storage Systems (CHEOPS)
   * 2023, USENIX Annual Technical Conference (ATC)
   * 2023, ACM International Systems and Storage Conference (Systor)
   * 2023, ACM/IFIP/USENIX Middleware 
@@ -47,5 +50,5 @@ permalink: /service/
 athena-award](https://www.nwo.nl/en/athena-award).
   * 2022, Moderator and day chair for [ICT.OPEN 2022](https://www.ictopen.nl/), [images](https://myalbum.com/album/G52hviRiZRWqZo/)
   * 2021, Online Moderator and day chair for [ICT.OPEN 2021](https://www.ictopen.nl/), [images](https://twitter.com/NWO_Science/status/1359878752600285184/photo/1)
-  * 2021, 5th National Dutch Computer Systems Conference ([CompSys](https://www.compsys.science/))
-  * 2020, Co-organizer, 2020 Amsterdam Data Science (ADS) ICT Infrastrucutre Meetup
+  * 2021, Organization chair for the 5th National Dutch Computer Systems Conference ([CompSys](https://www.compsys.science/conference/previous/2021/))
+  * 2020, Co-organizer, 2020 Amsterdam Data Science (ADS) ICT Infrastructure Meetup

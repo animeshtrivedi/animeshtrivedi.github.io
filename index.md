@@ -86,4 +86,4 @@ More about his work can be found at [https://animeshtrivedi.github.io](https://a
   * *Office:* K238, IBM Research GmbH, Säumerstrasse 4, CH–8803 Rüschlikon, Switzerland
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
-Last updated: 27-Dec-2024
+Last updated: 15-Sep-2025

@@ -66,24 +66,28 @@ finished my PhD in Computer Science at ETH Zurich under the supervision of Prof.
 <p><a href="{{ site.base }}/news/">more posts&hellip;</a></p>
 {% endif %}
 
-**Bio:** Animesh Trivedi is a Senior Research Scientist at the IBM Research Lab in Zurich, Switzerland.
-His current research interests lie in the area of cloud infrastructure, specifically around challenges surrounding data storage and processing with modern storage technologies (hardware, devices, platforms).
-Prior to joining the Zurich research lab, he was a tenured Assistant Professor at VU Amsterdam (2019-2024), where he led research and educational efforts in modern storage systems.
+**Short Bio:** Animesh Trivedi is a Senior Research Scientist at the IBM Research Lab in Zurich, Switzerland.
+His current research interests lie in the area of designing and building efficient and scalable platforms for GenAI workloads (inference, agents), i.e., efficient systems for AI/ML. In this context, he is working on efficient workload management (KV caches, runtime states, scheduling) of GenAI workloads in a distributed setting, with a specific focus on efficient, scalable, and high-performance data and state management. Prior to joining the Zurich Research Lab, he was a tenured Assistant Professor at VU Amsterdam (2019–2024), where he led research and educational efforts in modern data storage systems.
 He has authored more than 50 research manuscripts, holds several international patents, and has acquired support and funding from the Dutch Research Council (NWO), the EU (Cloudstars MSCA Staff Exchanges), and various industrial partners (Western Digital, Xilinx, AWS, Mellanox).
-For his research and educational work he has won multiple awards with his team of students at VU (Best Paper Awards at ICPE'24 and Systor'17, Best Paper Nomination at CCGrid'24, Best Presentation CompSys'19, Best Bsc and MSc Amsterdam Thesis Awards 2020 2022, Best FAIR Artifact Award IEEE ACSOS 2021).
+For his research and educational work he has won multiple awards with his team of students at VU (Best Paper Awards at ICPE'24 and Systor'17, Best Paper Nomination at IISWC'25, CCGrid'24, Best Presentation CompSys'19, Best Bsc and MSc Amsterdam Thesis Awards 2020 2022, Best FAIR Artifact Award IEEE ACSOS 2021).
 In 2023, he was inducted to the Amsterdam Young Academy.
 He has served on the program committee of multiple flagship systems conferences, and was the Storage Track co-chair for the 24th IEEE/ACM CCGRID conference 2024.
 He holds MSc. (2009) and PhD. (2016) degrees from ETH Zurich.
-More about his work can be found at [https://animeshtrivedi.github.io](https://animeshtrivedi.github.io).
 
 
-<!-- Animesh Trivedi is a tenured Assistant Professor in the Computer Science department at VU Amsterdam. He leads the Storage-Networking (StoNet) research group, [https://stonet-research.github.io/](https://stonet-research.github.io/). His research interests lie in building fast and efficient systems using modern hardware. He's currently focusing on two emerging research directions. First, how to leverage cheap and fast Flash and Optane NVMe storage devices to support demands of data-heavy workloads. Second, how to design and build foundational software infrastructure and services for the next generation of edge computing applications. Prior to joining VU Amsterdam in 2019, he has worked as a Research Staff Member at the IBM Research Lab in Zürich. He holds a PhD and Master from ETH Zürich. More about his work can be found at [https://animeshtrivedi.github.io](https://animeshtrivedi.github.io). -->
+<!-- cloud infrastructure, specifically around challenges surrounding data storage and processing with modern storage technologies (hardware, devices, platforms).
+Animesh Trivedi is a tenured Assistant Professor in the Computer Science department at VU Amsterdam. He leads the Storage-Networking (StoNet) research group, [https://stonet-research.github.io/](https://stonet-research.github.io/). His research interests lie in building fast and efficient systems using modern hardware. He's currently focusing on two emerging research directions. First, how to leverage cheap and fast Flash and Optane NVMe storage devices to support demands of data-heavy workloads. Second, how to design and build foundational software infrastructure and services for the next generation of edge computing applications. Prior to joining VU Amsterdam in 2019, he has worked as a Research Staff Member at the IBM Research Lab in Zürich. He holds a PhD and Master from ETH Zürich. More about his work can be found at [https://
+animeshtrivedi.github.io](https://animeshtrivedi.github.io). -->
 <!-- Animesh Trivedi is a tenure-track Assistant Professor in the department of Computer Science at VU Amsterdam. Prior to joining the department in 2019, he has worked as a Research Staff Member at the IBM Research Lab in Zurich. His research interests lie in building fast and efficient distributed systems around modern high-performance, programmable I/O devices. He is currently investigating how to leverage emerging Non-Volatile Memories (NVMs) to support data access demands of machine learning workloads. He is one of the founding members of the Apache Crail (Incubating) project. He holds a PhD and master from ETH Zurich. More about his work can be found at [https://animeshtrivedi.github.io](https://animeshtrivedi.github.io).-->
 
 ### Contact
-  * *Email:* FIRSTNAME DOT LASTNAME AT IBM DOT COM  
+  * *Email:* First name DOT Last name AT-THE-RATE IBM 
   * *Phone:* +41 44 724 85 27  
   * *Office:* K238, IBM Research GmbH, Säumerstrasse 4, CH–8803 Rüschlikon, Switzerland
   * I am also on [Github](https://github.com/animeshtrivedi) and [LinkedIn](https://ch.linkedin.com/in/animesh-trivedi-5407aa2).
 
-Last updated: 15-Sep-2025
+
+**Disclaimer:** All views expressed on this site are my own and do not represent the opinions of any entity with which I have been, am now, or will be affiliated.
+
+
+Last updated: 31-Aug-2026 

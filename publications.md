@@ -13,6 +13,14 @@ Please see the [Team page](/team) for Bsc. and MSc. theses, surveys, and short p
 <a href="https://github.com/animeshtrivedi/animeshtrivedi.github.io/tree/master/files/papers" target="_blank" rel="noopener noreferrer" style="background-color:white; color:white;font-weight:bold"><img style="float: middle; width: 3%;" src="/images/pdf.svg" alt="" /></a> All papers PDFs are available at [here](https://github.com/animeshtrivedi/animeshtrivedi.github.io/tree/master/files/papers) for timely dissemination of scientific information. Please respect the paper-specific copyright. 
 
 ## Publications
+  * Pablo Gimeno Sarroca, Miquel Álvarez-Ruiz, Marc Sánchez-Artigas, Animesh Trivedi, Bernard Metzler, **Peridot: An I/O-Extensible Execution Environment for WebAssembly Containers**, to appear in the 27th ACM International Middleware Conference (Middleware’26), https://middleware-conf.github.io/2026/
+
+  * Joseph Kanichai and Krijn Doekemeijer and Steven van der Vlugt and Dante Niewenhuis and Tiziano De Matteis and Animesh Trivedi, **Characterizing Energy Efficiency Trade-offs in the Linux Storage Stack for Flash-based NVMe SSDs**, to appear in the 2026 IEEE International Symposium on Workload Characterization (IISWC’26). 
+
+  * Huzaifa Shaaban Kabakibo, Animesh Trivedi, Lin Wang, **Breaking the Ice: Analyzing Cold Start Latency in vLLM**, Proceedings of Machine Learning and Systems 8 (MLSys 2026), [https://openreview.net/forum?id=eoEobeKTNZ](https://openreview.net/forum?id=eoEobeKTNZ)
+
+  * Animesh Trivedi, Radu Stoica, Jeremy Cohn, Danny Harnik, Yue Zhu, Jonathan Terner, Guy Margalit, Frank Schmuck, Vasily Tarasov, and Swaminathan Sundararaman, **A Case for a Simulation-Driven Exploration of Distributed GenAI Platforms.** In Proceedings of the Sixth European Workshop on Machine Learning and Systems (EuroMLSys ’26). Association for Computing Machinery, New York, NY, USA, 286–295. [https://doi.org/10.1145/3805621.3807623](https://doi.org/10.1145/3805621.3807623)
+
   * Krijn Doekemeijer, Zebin Ren, Tiziano De Matteis, Balakrishnan Chandrasekaran (Vrije Universiteit Amsterdam); Animesh Trivedi (IBM Research Europe, Zurich), **Does Linux Provide Performance Isolation for NVMe SSDs? Configuring cgroups for I/O Control in the NVMe Era**, To appear in 2025 IEEE International Symposium on Workload Characterization, [https://iiswc.org/iiswc2025/](https://iiswc.org/iiswc2025/).
 
   * Zebin Ren (Vrije Universiteit Amsterdam); Krijn Doekemeijer (Vrije Universiteit Amsterdam, The Netherlands); Padma Apparao (Intel Corporation); Animesh Trivedi (IBM Research Europe, Zurich), **Storage-Based Approximate Nearest Neighbor Search: What are the Performance, Cost, and I/O Characteristics?**, To appear in 2025 IEEE International Symposium on Workload Characterization, [https://iiswc.org/iiswc2025/](https://iiswc.org/iiswc2025/). 

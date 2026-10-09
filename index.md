@@ -6,14 +6,14 @@ layout: default
 style="float:right;width:25%;max-width:150px;margin-left:15px;"/></a>
 {% endraw %}
 
-Since July 2024, I am a Senior Research Scientist at IBM Research Lab, Zurich in the [Hybrid Cloud Research Group](https://www.zurich.ibm.com/cci/). 
-Prior to joining the research lab, I was a tenured Assistant Professor (tenure-tracked) in the [Computer Systems (CompSys) Section](https://www.vucompsys.net/) in 
+I am a Senior Research Scientist at IBM Research Lab, Zurich in the [Hybrid Cloud / AI Platform Research Group](https://research.ibm.com/hybrid-cloud/) focussing on systems/platforms for AI inference. 
+Prior to joining the research lab, I was a tenured Assistant Professor (tenure-tracked, 2019 - 2024) in the [Computer Systems (CompSys) Section](https://www.vucompsys.net/) in 
 the [Department of Computer Science, VU, Amsterdam](https://www.cs.vu.nl/en/index.aspx). I led the [StoNet (Storage-Networking) research group](https://stonet-research.github.io/), which was a part of 
 the [Massiving Computer Systems group](https://atlarge-research.com/) lead by [Prof. Alexandru Iosup](https://atlarge-research.com/aiosup/). 
 
 I am a systems researcher. I like to design, implement, evaluate systems. My main research areas are in storage, networking, operating systems, and distributed systems. 
 Broadly speaking, I am interested in the performance aspect of systems, spanning from multi-core CPUs to distributed systems. 
-Currently, I am investigating how to leverage fast NVMe storage in data-heavy workloads like AI/ML and analytics
+Currently, I am interesting in building efficient systems abstractions for supporting emerging agentic AI workloads. 
 
 <!-- <img style="float: middle; width: 4%;" src="/images/stonet.png" alt="" /> **Storage-Networking (StoNet) research group** 
   * weblink: [https://stonet-research.github.io/](https://stonet-research.github.io/)
@@ -90,4 +90,4 @@ animeshtrivedi.github.io](https://animeshtrivedi.github.io). -->
 **Disclaimer:** All views expressed on this site are my own and do not represent the opinions of any entity with which I have been, am now, or will be affiliated.
 
 
-Last updated: 31-Aug-2026 
+Last updated: 05-Oct-2026 
